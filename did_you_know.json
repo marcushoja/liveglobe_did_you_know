@@ -1,3 +1,82 @@
-{
-    "title":"test"
-}
+[
+  {
+    "en": "The tectonic plates that make up the Earth's crust move about as fast as our fingernails grow – on average about 2 to 5 centimeters per year.",
+    "de": "Die tektonischen Platten, aus denen die Erdkruste besteht, bewegen sich ungefähr so schnell, wie unsere Fingernägel wachsen – im Schnitt etwa 2 bis 5 Zentimeter pro Jahr.",
+    "es": "Las placas tectónicas que forman la corteza terrestre se mueven aproximadamente a la misma velocidad a la que crecen nuestras uñas: en promedio, entre 2 y 5 centímetros por año.",
+    "fr": "Les plaques tectoniques qui composent la croûte terrestre se déplacent à peu près à la même vitesse que poussent nos ongles – en moyenne de 2 à 5 centimètres par an.",
+    "pt": "As placas tectônicas que compõem a crosta terrestre se movem aproximadamente na mesma velocidade em que nossas unhas crescem – em média, cerca de 2 a 5 centímetros por ano.",
+    "it": "Le placche tettoniche che compongono la crosta terrestre si muovono all'incirca alla stessa velocità con cui crescono le nostre unghie: in media dai 2 ai 5 centimetri all'anno."
+  },
+  {
+    "en": "Over 80% of all major earthquakes worldwide occur along the so-called \"Ring of Fire\" – a gigantic, horseshoe-shaped zone that surrounds the entire Pacific Ocean.",
+    "de": "Über 80 % aller großen Erdbeben weltweit ereignen sich entlang des sogenannten „Pazifischen Feuerrings“ – einer gigantischen, hufeisenförmigen Zone, die den gesamten Pazifik umschließt.",
+    "es": "Más del 80 % de todos los grandes terremotos del mundo se producen a lo largo del llamado \"Cinturón de Fuego del Pacífico\", una gigantesca zona en forma de herradura que rodea todo el Océano Pacífico.",
+    "fr": "Plus de 80 % des grands tremblements de terre dans le monde se produisent le long de ce qu'on appelle la « Ceinture de feu du Pacifique », une gigantesque zone en forme de fer à cheval qui entoure tout l'océan Pacifique.",
+    "pt": "Mais de 80% de todos os grandes terremotos no mundo ocorrem ao longo do chamado \"Círculo de Fogo do Pacífico\" – uma gigantesca zona em forma de ferradura que circunda todo o Oceano Pacífico.",
+    "it": "Oltre l'80% di tutti i grandi terremoti a livello mondiale si verifica lungo il cosiddetto \"Anello di fuoco del Pacifico\", una gigantesca zona a forma di ferro di cavallo che circonda l'intero Oceano Pacifico."
+  },
+  {
+    "en": "The strongest earthquake ever recorded took place in Chile in 1960 (magnitude 9.5). The tremors were so massive that the seismic waves traveled around the entire globe for days afterward.",
+    "de": "Das stärkste jemals gemessene Erdbeben fand 1960 in Chile statt (Magnitude 9,5). Die Erschütterungen waren so gewaltig, dass die seismischen Wellen danach tagelang um den gesamten Globus wanderten.",
+    "es": "El terremoto más fuerte jamás registrado tuvo lugar en Chile en 1960 (magnitud 9,5). Los temblores fueron tan masivos que las ondas sísmicas viajaron por todo el mundo durante días.",
+    "fr": "Le séisme le plus puissant jamais enregistré a eu lieu au Chili en 1960 (magnitude 9,5). Les secousses étaient si violentes que les ondes sismiques ont ensuite parcouru le globe entier pendant des jours.",
+    "pt": "O terremoto mais forte já registrado ocorreu no Chile em 1960 (magnitude 9,5). Os tremores foram tão intensos que as ondas sísmicas viajaram ao redor de todo o globo por dias depois.",
+    "it": "Il terremoto più forte mai registrato ebbe luogo in Cile nel 1960 (magnitudo 9,5). Le scosse furono così violente che le onde sismiche viaggiarono intorno a tutto il globo per giorni."
+  },
+  {
+    "en": "Due to the Earth's rotation, hurricanes always spin counterclockwise in the Northern Hemisphere, but clockwise in the Southern Hemisphere. This phenomenon is called the Coriolis effect.",
+    "de": "Aufgrund der Erdrotation drehen sich Wirbelstürme auf der Nordhalbkugel immer gegen den Uhrzeigersinn, auf der Südhalbkugel aber mit dem Uhrzeigersinn. Dieses Phänomen nennt man den Corioliseffekt.",
+    "es": "Debido a la rotación de la Tierra, los huracanes siempre giran en sentido contrario a las agujas del reloj en el hemisferio norte, pero en sentido horario en el hemisferio sur. Este fenómeno se llama efecto Coriolis.",
+    "fr": "En raison de la rotation de la Terre, les ouragans tournent toujours dans le sens inverse des aiguilles d'une montre dans l'hémisphère nord, mais dans le sens des aiguilles d'une montre dans l'hémisphère sud. Ce phénomène s'appelle l'effet Coriolis.",
+    "pt": "Devido à rotação da Terra, os furacões giram sempre no sentido anti-horário no Hemisfério Norte, mas no sentido horário no Hemisfério Sul. Esse fenômeno é chamado de efeito Coriolis.",
+    "it": "A causa della rotazione terrestre, gli uragani ruotano sempre in senso antiorario nell'emisfero settentrionale, ma in senso orario nell'emisfero meridionale. Questo fenomeno è chiamato effetto Coriolis."
+  },
+  {
+    "en": "The \"eye\" of a massive hurricane is often completely calm and cloud-free. While the most extreme winds rage directly around it, you can see blue sky in the center.",
+    "de": "Das „Auge“ eines massiven Wirbelsturms ist oft völlig windstill und wolkenfrei. Während direkt drumherum die extremsten Winde toben, kann man im Zentrum blauen Himmel sehen.",
+    "es": "El \"ojo\" de un huracán masivo a menudo está completamente en calma y libre de nubes. Mientras que los vientos más extremos rugen directamente a su alrededor, en el centro se puede ver el cielo azul.",
+    "fr": "L'« œil » d'un ouragan massif est souvent totalement calme et sans nuages. Alors que les vents les plus extrêmes font rage juste autour, on peut voir un ciel bleu au centre.",
+    "pt": "O \"olho\" de um furacão enorme é muitas vezes completamente calmo e sem nuvens. Enquanto os ventos mais extremos sopram diretamente ao redor, você pode ver o céu azul no centro.",
+    "it": "L'\"occhio\" di un enorme uragano è spesso completamente calmo e privo di nuvole. Mentre i venti più estremi infuriano tutt'intorno, al centro è possibile vedere il cielo blu."
+  },
+  {
+    "en": "We don't even notice most volcanic eruptions on Earth. About 75% to 80% of all volcanic activity takes place hidden deep below the surface of the ocean.",
+    "de": "Die meisten Vulkanausbrüche auf der Erde bemerken wir gar nicht. Etwa 75 % bis 80 % aller vulkanischen Aktivitäten finden tief verborgen unter der Meeresoberfläche statt.",
+    "es": "Ni siquiera notamos la mayoría de las erupciones volcánicas en la Tierra. Alrededor del 75 % al 80 % de toda la actividad volcánica tiene lugar oculta en las profundidades bajo la superficie del océano.",
+    "fr": "Nous ne remarquons même pas la plupart des éruptions volcaniques sur Terre. Environ 75 % à 80 % de toute l'activité volcanique a lieu profondément cachée sous la surface de l'océan.",
+    "pt": "Nós nem sequer notamos a maioria das erupções vulcânicas na Terra. Cerca de 75% a 80% de toda a atividade vulcânica ocorre escondida profundamente abaixo da superfície do oceano.",
+    "it": "Non notiamo nemmeno la maggior parte delle eruzioni vulcaniche sulla Terra. Circa il 75-80% di tutta l'attività vulcanica avviene nascosta nelle profondità della superficie dell'oceano."
+  },
+  {
+    "en": "The International Space Station (ISS) orbits the Earth at a breathtaking 28,000 km/h. As a result, the astronauts on board experience an incredible 16 sunrises and 16 sunsets every single day!",
+    "de": "Die Internationale Raumstation (ISS) umkreist die Erde mit atemberaubenden 28.000 km/h. Die Astronauten an Bord erleben dadurch jeden Tag unglaubliche 16 Sonnenaufgänge und 16 Sonnenuntergänge!",
+    "es": "La Estación Espacial Internacional (ISS) orbita la Tierra a una velocidad impresionante de 28.000 km/h. Como resultado, los astronautas a bordo experimentan unos increíbles 16 amaneceres y 16 atardeceres cada día.",
+    "fr": "La Station spatiale internationale (ISS) orbite autour de la Terre à la vitesse époustouflante de 28 000 km/h. Par conséquent, les astronautes à bord assistent chaque jour à 16 levers et 16 couchers de soleil incroyables !",
+    "pt": "A Estação Espacial Internacional (ISS) orbita a Terra a uns impressionantes 28.000 km/h. Como resultado, os astronautas a bordo experimentam incríveis 16 nasceres e 16 pores do sol todos os dias!",
+    "it": "La Stazione Spaziale Internazionale (ISS) orbita attorno alla Terra a una velocità mozzafiato di 28.000 km/h. Di conseguenza, gli astronauti a bordo vivono ogni giorno l'incredibile cifra di 16 albe e 16 tramonti!"
+  },
+  {
+    "en": "The ISS flies at an altitude of about 400 kilometers. To put that into perspective: That is roughly the driving distance from Cologne to Paris – just straight up into space.",
+    "de": "Die ISS fliegt in einer Höhe von etwa 400 Kilometern. Um sich das besser vorzustellen: Das ist ungefähr die Fahrstrecke von Köln nach Paris – nur eben senkrecht nach oben in den Weltraum.",
+    "es": "La ISS vuela a una altitud de unos 400 kilómetros. Para ponerlo en perspectiva: es aproximadamente la distancia en coche de Colonia a París, pero directamente hacia el espacio.",
+    "fr": "L'ISS vole à une altitude d'environ 400 kilomètres. Pour se faire une idée : c'est à peu près la distance en voiture de Cologne à Paris – mais verticalement vers l'espace.",
+    "pt": "A ISS voa a uma altitude de cerca de 400 quilômetros. Para colocar isso em perspectiva: essa é aproximadamente a distância de carro de Colônia a Paris – mas direto para o espaço.",
+    "it": "La ISS vola a un'altitudine di circa 400 chilometri. Per rendere l'idea: è all'incirca la distanza in auto da Colonia a Parigi, ma dritta verso lo spazio."
+  },
+  {
+    "en": "The Earth is not a perfect sphere at all. Because it rotates so quickly on its axis, it bulges slightly outwards at the equator and is somewhat flatter at the poles.",
+    "de": "Die Erde ist gar keine perfekte Kugel. Weil sie sich so schnell um die eigene Achse dreht, wird sie am Äquator leicht nach außen gedrückt und ist an den Polen etwas platter.",
+    "es": "La Tierra no es una esfera perfecta en absoluto. Debido a que gira tan rápido sobre su propio eje, se abulta ligeramente hacia afuera en el ecuador y es un poco más plana en los polos.",
+    "fr": "La Terre n'est pas du tout une sphère parfaite. Comme elle tourne si vite sur son axe, elle s'élargit légèrement à l'équateur et est un peu plus plate aux pôles.",
+    "pt": "A Terra não é uma esfera perfeita. Como gira muito rápido em seu próprio eixo, ela se alarga um pouco no equador e é um pouco mais achatada nos polos.",
+    "it": "La Terra non è affatto una sfera perfetta. Poiché ruota così velocemente sul proprio asse, si gonfia leggermente all'equatore ed è un po' più piatta ai poli."
+  },
+  {
+    "en": "Every single day, about 8 million lightning strikes hit the ground worldwide. That's almost 100 flashes per second, which, viewed from space, could be seen as a constant, tiny flickering on the globe.",
+    "de": "Jeden einzelnen Tag schlagen weltweit etwa 8 Millionen Blitze ein. Das sind fast 100 Blitze pro Sekunde, die man aus dem Weltall betrachtet als ständiges, kleines Flackern auf dem Globus beobachten könnte.",
+    "es": "Cada día caen en todo el mundo unos 8 millones de rayos. Eso supone casi 100 rayos por segundo que, vistos desde el espacio, podrían observarse como un constante y pequeño parpadeo sobre el globo.",
+    "fr": "Chaque jour, environ 8 millions d'éclairs frappent le sol dans le monde entier. Cela représente près de 100 éclairs par seconde, que l'on pourrait observer depuis l'espace comme un petit scintillement constant sur le globe.",
+    "pt": "Todos os dias, cerca de 8 milhões de raios atingem o solo em todo o mundo. São quase 100 raios por segundo, o que, visto do espaço, poderia ser observado como um piscar constante e minúsculo no globo.",
+    "it": "Ogni singolo giorno, circa 8 milioni di fulmini colpiscono il suolo in tutto il mondo. Sono quasi 100 fulmini al secondo, che, visti dallo spazio, potrebbero essere osservati come un piccolo e costante sfarfallio sul globo."
+  }
+]
