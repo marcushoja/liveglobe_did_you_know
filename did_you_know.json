@@ -78,5 +78,325 @@
     "fr": "Chaque jour, environ 8 millions d'éclairs frappent le sol dans le monde entier. Cela représente près de 100 éclairs par seconde, que l'on pourrait observer depuis l'espace comme un petit scintillement constant sur le globe.",
     "pt": "Todos os dias, cerca de 8 milhões de raios atingem o solo em todo o mundo. São quase 100 raios por segundo, o que, visto do espaço, poderia ser observado como um piscar constante e minúsculo no globo.",
     "it": "Ogni singolo giorno, circa 8 milioni di fulmini colpiscono il suolo in tutto il mondo. Sono quasi 100 fulmini al secondo, che, visti dallo spazio, potrebbero essere osservati come un piccolo e costante sfarfallio sul globo."
+  },
+  {
+    "en": "In Japan, the earth shakes on average about 1,500 times a year – though most of these quakes are so weak that they can't be felt.",
+    "de": "In Japan bebt die Erde im Durchschnitt etwa 1.500 Mal pro Jahr – die meisten dieser Beben sind allerdings so schwach, dass man sie nicht spürt.",
+    "es": "En Japón, la tierra tiembla en promedio unas 1.500 veces al año, aunque la mayoría de estos seísmos son tan débiles que no se perciben.",
+    "fr": "Au Japon, la terre tremble en moyenne environ 1 500 fois par an – mais la plupart de ces séismes sont si faibles qu'on ne les ressent pas.",
+    "pt": "No Japão, a terra treme em média cerca de 1.500 vezes por ano – embora a maioria desses tremores seja tão fraca que não é sentida.",
+    "it": "In Giappone la terra trema in media circa 1.500 volte all'anno, anche se la maggior parte di questi terremoti è così debole da non essere percepita."
+  },
+  {
+    "en": "Massive earthquakes can slightly speed up the Earth's rotation. The severe 2011 quake in Japan shortened our days by about 1.8 microseconds.",
+    "de": "Massive Erdbeben können die Erdrotation minimal beschleunigen. Das schwere Beben in Japan 2011 hat unsere Tage um etwa 1,8 Mikrosekunden verkürzt.",
+    "es": "Los terremotos masivos pueden acelerar ligeramente la rotación de la Tierra. El fuerte seísmo de Japón de 2011 acortó nuestros días en unos 1,8 microsegundos.",
+    "fr": "Les séismes massifs peuvent légèrement accélérer la rotation de la Terre. Le violent séisme de 2011 au Japon a raccourci nos journées d'environ 1,8 microseconde.",
+    "pt": "Terremotos massivos podem acelerar ligeiramente a rotação da Terra. O forte tremor de 2011 no Japão encurtou nossos dias em cerca de 1,8 microssegundo.",
+    "it": "I terremoti di forte intensità possono accelerare leggermente la rotazione terrestre. Il violento sisma del 2011 in Giappone ha accorciato le nostre giornate di circa 1,8 microsecondi."
+  },
+  {
+    "en": "On the open ocean, a tsunami can reach the speed of a passenger jet – the waves race unnoticed through deep water at up to 800 km/h.",
+    "de": "Ein Tsunami kann auf dem offenen Ozean die Geschwindigkeit eines Passagierflugzeugs erreichen – mit bis zu 800 km/h rasen die Wellen unbemerkt durchs tiefe Wasser.",
+    "es": "En mar abierto, un tsunami puede alcanzar la velocidad de un avión de pasajeros: las olas avanzan inadvertidas por las aguas profundas a hasta 800 km/h.",
+    "fr": "En haute mer, un tsunami peut atteindre la vitesse d'un avion de ligne : les vagues filent inaperçues dans les eaux profondes à jusqu'à 800 km/h.",
+    "pt": "Em mar aberto, um tsunami pode atingir a velocidade de um avião de passageiros: as ondas avançam despercebidas pelas águas profundas a até 800 km/h.",
+    "it": "In mare aperto uno tsunami può raggiungere la velocità di un aereo di linea: le onde sfrecciano inosservate nelle acque profonde fino a 800 km/h."
+  },
+  {
+    "en": "The deepest point on Earth, the Mariana Trench in the Pacific, is almost 11 kilometers deep. If you placed Mount Everest in it, its peak would still be over two kilometers underwater.",
+    "de": "Der tiefste Punkt der Erde, der Marianengraben im Pazifik, ist fast 11 Kilometer tief. Würde man den Mount Everest dort hineinstellen, wäre sein Gipfel noch immer über zwei Kilometer unter Wasser.",
+    "es": "El punto más profundo de la Tierra, la fosa de las Marianas en el Pacífico, tiene casi 11 kilómetros de profundidad. Si se colocara el Everest dentro, su cima quedaría aún a más de dos kilómetros bajo el agua.",
+    "fr": "Le point le plus profond de la Terre, la fosse des Mariannes dans le Pacifique, atteint près de 11 kilomètres de profondeur. Si l'on y plaçait l'Everest, son sommet serait encore à plus de deux kilomètres sous l'eau.",
+    "pt": "O ponto mais profundo da Terra, a Fossa das Marianas no Pacífico, tem quase 11 quilômetros de profundidade. Se colocássemos o Monte Everest ali, seu cume ainda ficaria a mais de dois quilômetros debaixo d'água.",
+    "it": "Il punto più profondo della Terra, la Fossa delle Marianne nel Pacifico, è profondo quasi 11 chilometri. Se vi si collocasse l'Everest, la sua vetta sarebbe ancora a oltre due chilometri sott'acqua."
+  },
+  {
+    "en": "Volcanic ash has nothing to do with the ordinary ash from a fireplace. It consists of tiny, razor-sharp fragments of rock and glass that are extremely dangerous to aircraft engines.",
+    "de": "Vulkanasche hat nichts mit normaler Asche aus dem Kamin zu tun. Sie besteht aus winzigen, rasiermesserscharfen Gesteins- und Glassplittern, die extrem gefährlich für Flugzeugtriebwerke sind.",
+    "es": "La ceniza volcánica no tiene nada que ver con la ceniza normal de una chimenea. Está compuesta de diminutas esquirlas de roca y vidrio afiladas como cuchillas, extremadamente peligrosas para los motores de los aviones.",
+    "fr": "La cendre volcanique n'a rien à voir avec la cendre ordinaire d'une cheminée. Elle est composée de minuscules éclats de roche et de verre coupants comme des rasoirs, extrêmement dangereux pour les réacteurs d'avion.",
+    "pt": "A cinza vulcânica não tem nada a ver com a cinza comum de uma lareira. Ela é composta por minúsculos fragmentos de rocha e vidro afiados como lâminas, extremamente perigosos para os motores de avião.",
+    "it": "La cenere vulcanica non ha nulla a che vedere con la normale cenere del camino. È composta da minuscole schegge di roccia e vetro affilate come rasoi, estremamente pericolose per i motori degli aerei."
+  },
+  {
+    "en": "The Earth's magnetic north pole doesn't stand still. It is currently moving toward Russia at a speed of about 50 to 60 kilometers per year.",
+    "de": "Der magnetische Nordpol der Erde steht nicht still. Er wandert derzeit mit einer Geschwindigkeit von etwa 50 bis 60 Kilometern pro Jahr in Richtung Russland.",
+    "es": "El polo norte magnético de la Tierra no está quieto. Actualmente se desplaza hacia Rusia a una velocidad de unos 50 a 60 kilómetros por año.",
+    "fr": "Le pôle nord magnétique de la Terre ne reste pas immobile. Il se déplace actuellement vers la Russie à une vitesse d'environ 50 à 60 kilomètres par an.",
+    "pt": "O polo norte magnético da Terra não fica parado. Atualmente ele se desloca em direção à Rússia a uma velocidade de cerca de 50 a 60 quilômetros por ano.",
+    "it": "Il polo nord magnetico della Terra non è fermo. Attualmente si sposta verso la Russia a una velocità di circa 50-60 chilometri all'anno."
+  },
+  {
+    "en": "An average hurricane produces in just a single day as much energy as the entire world population would use in half a year.",
+    "de": "Ein durchschnittlicher Hurrikan produziert an nur einem einzigen Tag so viel Energie, wie die gesamte Weltbevölkerung in einem halben Jahr verbrauchen würde.",
+    "es": "Un huracán promedio produce en un solo día tanta energía como la que consumiría toda la población mundial en medio año.",
+    "fr": "Un ouragan moyen produit en une seule journée autant d'énergie que la population mondiale entière en consommerait en six mois.",
+    "pt": "Um furacão médio produz em um único dia tanta energia quanto toda a população mundial consumiria em meio ano.",
+    "it": "Un uragano medio produce in un solo giorno tanta energia quanta ne consumerebbe l'intera popolazione mondiale in mezzo anno."
+  },
+  {
+    "en": "Contrary to popular belief, falling raindrops don't look like teardrops. Air resistance flattens them on the bottom, so as they fall they look more like a hamburger bun.",
+    "de": "Entgegen der landläufigen Meinung sehen fallende Regentropfen nicht aus wie Tränen. Durch den Luftwiderstand werden sie unten platt gedrückt und ähneln beim Fallen eher einem Hamburger-Brötchen.",
+    "es": "En contra de la creencia popular, las gotas de lluvia que caen no tienen forma de lágrima. La resistencia del aire las aplana por abajo, de modo que al caer se parecen más a un pan de hamburguesa.",
+    "fr": "Contrairement à une idée reçue, les gouttes de pluie qui tombent n'ont pas la forme de larmes. La résistance de l'air les aplatit par le bas, si bien qu'en tombant elles ressemblent plutôt à un pain à hamburger.",
+    "pt": "Ao contrário da crença popular, as gotas de chuva que caem não têm forma de lágrima. A resistência do ar as achata embaixo, de modo que, ao cair, lembram mais um pão de hambúrguer.",
+    "it": "Contrariamente a quanto si crede, le gocce di pioggia che cadono non hanno la forma di lacrime. La resistenza dell'aria le appiattisce nella parte inferiore, così mentre cadono assomigliano più a un panino da hamburger."
+  },
+  {
+    "en": "A lightning strike can heat the surrounding air to around 30,000 degrees Celsius for a fraction of a second – about five times hotter than the surface of the sun.",
+    "de": "Ein Blitzschlag kann die ihn umgebende Luft für den Bruchteil einer Sekunde auf rund 30.000 Grad Celsius erhitzen – das ist etwa fünfmal heißer als die Oberfläche der Sonne.",
+    "es": "Un rayo puede calentar el aire que lo rodea hasta unos 30.000 grados Celsius durante una fracción de segundo, unas cinco veces más caliente que la superficie del Sol.",
+    "fr": "Un éclair peut chauffer l'air qui l'entoure à environ 30 000 degrés Celsius pendant une fraction de seconde – soit environ cinq fois plus chaud que la surface du Soleil.",
+    "pt": "Um raio pode aquecer o ar ao seu redor a cerca de 30.000 graus Celsius por uma fração de segundo – cerca de cinco vezes mais quente que a superfície do Sol.",
+    "it": "Un fulmine può riscaldare l'aria circostante a circa 30.000 gradi Celsius per una frazione di secondo, ovvero circa cinque volte più della superficie del Sole."
+  },
+  {
+    "en": "The largest desert on Earth is not the hot Sahara, but Antarctica. A desert is defined by its extremely low precipitation, not by heat or sand.",
+    "de": "Die größte Wüste der Erde ist nicht die heiße Sahara, sondern die Antarktis. Eine Wüste definiert sich nämlich über ihre extrem geringe Niederschlagsmenge, nicht über Hitze oder Sand.",
+    "es": "El mayor desierto de la Tierra no es el cálido Sahara, sino la Antártida. Un desierto se define por su escasísima precipitación, no por el calor o la arena.",
+    "fr": "Le plus grand désert de la Terre n'est pas le chaud Sahara, mais l'Antarctique. Un désert se définit en effet par ses précipitations extrêmement faibles, et non par la chaleur ou le sable.",
+    "pt": "O maior deserto da Terra não é o quente Saara, mas a Antártida. Um deserto se define pela sua precipitação extremamente baixa, não pelo calor ou pela areia.",
+    "it": "Il deserto più grande della Terra non è il caldo Sahara, ma l'Antartide. Un deserto si definisce infatti per le sue precipitazioni estremamente scarse, non per il caldo o la sabbia."
+  },
+  {
+    "en": "The International Space Station (ISS) is enormous: with all its solar panels deployed, it is roughly the size of an entire football field.",
+    "de": "Die Internationale Raumstation (ISS) ist gewaltig: Mit all ihren Solarmodulen entfaltet ist sie ungefähr so groß wie ein komplettes Fußballfeld.",
+    "es": "La Estación Espacial Internacional (EEI) es enorme: con todos sus paneles solares desplegados, es aproximadamente del tamaño de un campo de fútbol completo.",
+    "fr": "La Station spatiale internationale (ISS) est gigantesque : tous ses panneaux solaires déployés, elle a à peu près la taille d'un terrain de football entier.",
+    "pt": "A Estação Espacial Internacional (ISS) é gigantesca: com todos os seus painéis solares estendidos, ela tem aproximadamente o tamanho de um campo de futebol inteiro.",
+    "it": "La Stazione Spaziale Internazionale (ISS) è enorme: con tutti i suoi pannelli solari dispiegati è grande all'incirca quanto un intero campo da calcio."
+  },
+  {
+    "en": "Without gravity pressing on the spine, astronauts can grow up to 5 centimeters taller during their stay on the ISS. After returning to Earth they shrink back to their normal height.",
+    "de": "Ohne die Schwerkraft, die auf die Wirbelsäule drückt, können Astronauten während ihres Aufenthalts auf der ISS bis zu 5 Zentimeter wachsen. Nach der Rückkehr auf die Erde schrumpfen sie wieder auf ihre normale Größe.",
+    "es": "Sin la gravedad que presiona la columna vertebral, los astronautas pueden crecer hasta 5 centímetros durante su estancia en la EEI. Tras regresar a la Tierra vuelven a encogerse hasta su estatura normal.",
+    "fr": "Sans la gravité qui comprime la colonne vertébrale, les astronautes peuvent grandir jusqu'à 5 centimètres pendant leur séjour sur l'ISS. De retour sur Terre, ils rétrécissent et retrouvent leur taille normale.",
+    "pt": "Sem a gravidade pressionando a coluna vertebral, os astronautas podem crescer até 5 centímetros durante sua estadia na ISS. Ao voltar à Terra, encolhem de novo até sua altura normal.",
+    "it": "Senza la gravità che preme sulla colonna vertebrale, gli astronauti possono crescere fino a 5 centimetri durante la loro permanenza sulla ISS. Dopo il ritorno sulla Terra tornano alla loro altezza normale."
+  },
+  {
+    "en": "The ISS is considered the most expensive single object humanity has ever built. The total cost of construction and operation is estimated at over 150 billion US dollars.",
+    "de": "Die ISS gilt als das teuerste Einzelobjekt, das die Menschheit jemals gebaut hat. Die Gesamtkosten für Bau und Betrieb werden auf über 150 Milliarden US-Dollar geschätzt.",
+    "es": "La EEI está considerada el objeto individual más caro que la humanidad ha construido jamás. El coste total de su construcción y operación se estima en más de 150.000 millones de dólares.",
+    "fr": "L'ISS est considérée comme l'objet unique le plus cher jamais construit par l'humanité. Le coût total de construction et d'exploitation est estimé à plus de 150 milliards de dollars américains.",
+    "pt": "A ISS é considerada o objeto único mais caro que a humanidade já construiu. O custo total de construção e operação é estimado em mais de 150 bilhões de dólares.",
+    "it": "La ISS è considerata l'oggetto singolo più costoso mai costruito dall'umanità. Il costo totale di costruzione e gestione è stimato in oltre 150 miliardi di dollari."
+  },
+  {
+    "en": "The Moon won't keep its current size for us forever. It drifts about 3.8 centimeters farther from Earth every year.",
+    "de": "Der Mond bleibt uns nicht für immer in seiner aktuellen Größe erhalten. Er driftet jedes Jahr etwa 3,8 Zentimeter weiter von der Erde weg.",
+    "es": "La Luna no conservará para siempre su tamaño actual ante nuestros ojos. Cada año se aleja de la Tierra unos 3,8 centímetros.",
+    "fr": "La Lune ne conservera pas éternellement sa taille actuelle à nos yeux. Elle s'éloigne de la Terre d'environ 3,8 centimètres chaque année.",
+    "pt": "A Lua não manterá para sempre o seu tamanho atual aos nossos olhos. A cada ano ela se afasta cerca de 3,8 centímetros da Terra.",
+    "it": "La Luna non manterrà per sempre le sue dimensioni attuali ai nostri occhi. Ogni anno si allontana dalla Terra di circa 3,8 centimetri."
+  },
+  {
+    "en": "The largest known volcano in our solar system is not on Earth, but on Mars. \"Olympus Mons\" is almost three times as tall as Mount Everest.",
+    "de": "Der größte bekannte Vulkan in unserem Sonnensystem liegt nicht auf der Erde, sondern auf dem Mars. „Olympus Mons“ ist fast dreimal so hoch wie der Mount Everest.",
+    "es": "El mayor volcán conocido de nuestro sistema solar no está en la Tierra, sino en Marte. El «Olympus Mons» es casi tres veces más alto que el Everest.",
+    "fr": "Le plus grand volcan connu de notre système solaire ne se trouve pas sur Terre, mais sur Mars. « Olympus Mons » est presque trois fois plus haut que l'Everest.",
+    "pt": "O maior vulcão conhecido do nosso sistema solar não fica na Terra, mas em Marte. O \"Olympus Mons\" é quase três vezes mais alto que o Monte Everest.",
+    "it": "Il più grande vulcano conosciuto del nostro sistema solare non si trova sulla Terra, ma su Marte. L'\"Olympus Mons\" è quasi tre volte più alto dell'Everest."
+  },
+  {
+    "en": "Although the planet Mercury is closest to the Sun, Venus is the hottest planet. Its extremely dense cloud cover creates a greenhouse effect that can melt lead.",
+    "de": "Obwohl der Planet Merkur der Sonne am nächsten ist, ist die Venus der heißeste Planet. Ihre extrem dichte Wolkendecke erzeugt einen Treibhauseffekt, der Blei schmelzen lässt.",
+    "es": "Aunque el planeta Mercurio es el más cercano al Sol, Venus es el planeta más caliente. Su densísima capa de nubes genera un efecto invernadero capaz de fundir el plomo.",
+    "fr": "Bien que la planète Mercure soit la plus proche du Soleil, c'est Vénus la planète la plus chaude. Sa couverture nuageuse extrêmement dense crée un effet de serre capable de faire fondre le plomb.",
+    "pt": "Embora o planeta Mercúrio seja o mais próximo do Sol, Vênus é o planeta mais quente. Sua densíssima camada de nuvens gera um efeito estufa capaz de derreter chumbo.",
+    "it": "Sebbene il pianeta Mercurio sia il più vicino al Sole, Venere è il pianeta più caldo. La sua coltre di nubi estremamente densa genera un effetto serra in grado di fondere il piombo."
+  },
+  {
+    "en": "Even on the darkest, clearest night far from any city lights, the human eye can make out at most about 4,500 to 5,000 stars in the sky.",
+    "de": "Selbst in der dunkelsten, klarsten Nacht weit weg von jeglicher Stadtbeleuchtung kann das menschliche Auge maximal etwa 4.500 bis 5.000 Sterne am Himmel erkennen.",
+    "es": "Incluso en la noche más oscura y despejada, lejos de cualquier luz urbana, el ojo humano puede distinguir como máximo unas 4.500 a 5.000 estrellas en el cielo.",
+    "fr": "Même par la nuit la plus sombre et la plus claire, loin de tout éclairage urbain, l'œil humain peut distinguer au maximum environ 4 500 à 5 000 étoiles dans le ciel.",
+    "pt": "Mesmo na noite mais escura e límpida, longe de qualquer iluminação urbana, o olho humano consegue distinguir no máximo cerca de 4.500 a 5.000 estrelas no céu.",
+    "it": "Anche nella notte più buia e limpida, lontano da qualsiasi illuminazione cittadina, l'occhio umano può distinguere al massimo circa 4.500-5.000 stelle nel cielo."
+  },
+  {
+    "en": "When you look up at the night sky, you are literally looking into the past. The light from Sirius, the brightest star in the sky, traveled over 8 years to reach us.",
+    "de": "Wenn du in den Nachthimmel schaust, blickst du buchstäblich in die Vergangenheit. Das Licht von Sirius, dem hellsten Stern am Himmel, war über 8 Jahre zu uns unterwegs.",
+    "es": "Cuando miras al cielo nocturno, estás literalmente mirando al pasado. La luz de Sirio, la estrella más brillante del cielo, tardó más de 8 años en llegar hasta nosotros.",
+    "fr": "Quand tu regardes le ciel nocturne, tu regardes littéralement dans le passé. La lumière de Sirius, l'étoile la plus brillante du ciel, a mis plus de 8 ans pour nous parvenir.",
+    "pt": "Quando você olha para o céu noturno, está literalmente olhando para o passado. A luz de Sírius, a estrela mais brilhante do céu, levou mais de 8 anos para chegar até nós.",
+    "it": "Quando guardi il cielo notturno, stai letteralmente guardando nel passato. La luce di Sirio, la stella più brillante del cielo, ha impiegato oltre 8 anni per raggiungerci."
+  },
+  {
+    "en": "Most of the glowing shooting stars we see in the night sky are produced by tiny grains of space dust, often no bigger than a grain of sand or rice.",
+    "de": "Die meisten leuchtenden Sternschnuppen, die wir am Nachthimmel sehen, werden von winzigen Weltraum-Staubkörnchen erzeugt, die oft nicht größer als ein Sand- oder Reiskorn sind.",
+    "es": "La mayoría de las brillantes estrellas fugaces que vemos en el cielo nocturno las producen diminutas partículas de polvo espacial, a menudo no mayores que un grano de arena o de arroz.",
+    "fr": "La plupart des étoiles filantes lumineuses que nous voyons dans le ciel nocturne sont produites par de minuscules grains de poussière spatiale, souvent pas plus gros qu'un grain de sable ou de riz.",
+    "pt": "A maioria das brilhantes estrelas cadentes que vemos no céu noturno é produzida por minúsculos grãos de poeira espacial, muitas vezes não maiores que um grão de areia ou de arroz.",
+    "it": "La maggior parte delle scintillanti stelle cadenti che vediamo nel cielo notturno è prodotta da minuscoli granelli di polvere spaziale, spesso non più grandi di un granello di sabbia o di riso."
+  },
+  {
+    "en": "There are more trees on Earth than stars in the Milky Way. Researchers estimate the number of trees at around 3 trillion, while our galaxy is home to \"only\" about 100 to 400 billion stars.",
+    "de": "Es gibt mehr Bäume auf der Erde als Sterne in der Milchstraße. Forscher schätzen die Zahl der Bäume auf rund 3 Billionen, während unsere Galaxie „nur“ etwa 100 bis 400 Milliarden Sterne beheimatet.",
+    "es": "Hay más árboles en la Tierra que estrellas en la Vía Láctea. Los investigadores estiman el número de árboles en unos 3 billones, mientras que nuestra galaxia alberga «solo» unos 100.000 a 400.000 millones de estrellas.",
+    "fr": "Il y a plus d'arbres sur Terre que d'étoiles dans la Voie lactée. Les chercheurs estiment le nombre d'arbres à environ 3 000 milliards, alors que notre galaxie n'abrite « que » 100 à 400 milliards d'étoiles.",
+    "pt": "Há mais árvores na Terra do que estrelas na Via Láctea. Os pesquisadores estimam o número de árvores em cerca de 3 trilhões, enquanto a nossa galáxia abriga \"apenas\" cerca de 100 a 400 bilhões de estrelas.",
+    "it": "Ci sono più alberi sulla Terra che stelle nella Via Lattea. I ricercatori stimano il numero di alberi in circa 3 mila miliardi, mentre la nostra galassia ospita \"solo\" circa 100-400 miliardi di stelle."
+  },
+  {
+    "en": "About 90% of the fresh water on Earth is locked up in the vast ice sheets of Antarctica and Greenland.",
+    "de": "Etwa 90 % des Süßwassers auf der Erde ist in den riesigen Eisschilden der Antarktis und Grönlands gebunden.",
+    "es": "Alrededor del 90 % del agua dulce de la Tierra está retenida en los enormes casquetes de hielo de la Antártida y Groenlandia.",
+    "fr": "Environ 90 % de l'eau douce de la Terre est retenue dans les immenses calottes glaciaires de l'Antarctique et du Groenland.",
+    "pt": "Cerca de 90% da água doce da Terra está retida nos imensos mantos de gelo da Antártida e da Groenlândia.",
+    "it": "Circa il 90% dell'acqua dolce della Terra è immagazzinato nelle enormi calotte glaciali dell'Antartide e della Groenlandia."
+  },
+  {
+    "en": "At around 6,000 degrees Celsius, the Earth's core is roughly as hot as the surface of our Sun.",
+    "de": "Der Erdkern ist mit rund 6.000 Grad Celsius in etwa so heiß wie die Oberfläche unserer Sonne.",
+    "es": "Con unos 6.000 grados Celsius, el núcleo de la Tierra es aproximadamente tan caliente como la superficie de nuestro Sol.",
+    "fr": "Avec environ 6 000 degrés Celsius, le noyau de la Terre est à peu près aussi chaud que la surface de notre Soleil.",
+    "pt": "Com cerca de 6.000 graus Celsius, o núcleo da Terra é aproximadamente tão quente quanto a superfície do nosso Sol.",
+    "it": "Con circa 6.000 gradi Celsius, il nucleo della Terra è all'incirca caldo quanto la superficie del nostro Sole."
+  },
+  {
+    "en": "A hurricane often carries over two billion tons of water in its clouds, which eventually comes down as extreme heavy rain.",
+    "de": "Ein Hurrikan transportiert in seinen Wolken oft über zwei Milliarden Tonnen Wasser, das schließlich als extremer Starkregen niedergeht.",
+    "es": "Un huracán transporta a menudo en sus nubes más de dos mil millones de toneladas de agua, que finalmente cae en forma de lluvias torrenciales extremas.",
+    "fr": "Un ouragan transporte souvent dans ses nuages plus de deux milliards de tonnes d'eau, qui finissent par tomber sous forme de pluies torrentielles extrêmes.",
+    "pt": "Um furacão muitas vezes transporta em suas nuvens mais de dois bilhões de toneladas de água, que acaba caindo na forma de chuvas torrenciais extremas.",
+    "it": "Un uragano trasporta spesso nelle sue nubi oltre due miliardi di tonnellate d'acqua, che alla fine cade sotto forma di piogge torrenziali estreme."
+  },
+  {
+    "en": "The Earth's atmosphere has no hard boundary with space. It simply gets thinner and thinner going up, which is why an artificial boundary, the so-called Kármán line at an altitude of 100 kilometers, was agreed upon.",
+    "de": "Die Erdatmosphäre hat keine harte Grenze zum Weltraum. Sie wird nach oben hin einfach immer dünner, weshalb man sich auf eine künstliche Grenze, die sogenannte Kármán-Linie in 100 Kilometern Höhe, geeinigt hat.",
+    "es": "La atmósfera terrestre no tiene un límite definido con el espacio. Simplemente se vuelve cada vez más tenue hacia arriba, por lo que se acordó un límite artificial, la llamada línea de Kármán, a 100 kilómetros de altura.",
+    "fr": "L'atmosphère terrestre n'a pas de frontière nette avec l'espace. Elle devient simplement de plus en plus ténue en altitude, c'est pourquoi on s'est accordé sur une limite artificielle, la ligne de Kármán, à 100 kilomètres d'altitude.",
+    "pt": "A atmosfera terrestre não tem um limite rígido com o espaço. Ela simplesmente vai ficando cada vez mais rarefeita para cima, razão pela qual se convencionou um limite artificial, a chamada linha de Kármán, a 100 quilômetros de altitude.",
+    "it": "L'atmosfera terrestre non ha un confine netto con lo spazio. Verso l'alto diventa semplicemente sempre più rarefatta, motivo per cui si è concordato un confine artificiale, la cosiddetta linea di Kármán, a 100 chilometri di altitudine."
+  },
+  {
+    "en": "The northern lights (auroras) occur when electrically charged particles from the Sun hit the Earth's magnetic field and are excited to glow in the atmosphere.",
+    "de": "Nordlichter (Polarlichter) entstehen, wenn elektrisch geladene Teilchen der Sonne auf das Magnetfeld der Erde treffen und in der Atmosphäre zum Leuchten angeregt werden.",
+    "es": "Las auroras boreales (auroras polares) se producen cuando partículas eléctricamente cargadas del Sol chocan con el campo magnético de la Tierra y son excitadas hasta brillar en la atmósfera.",
+    "fr": "Les aurores boréales (aurores polaires) se produisent lorsque des particules électriquement chargées du Soleil rencontrent le champ magnétique terrestre et sont excitées jusqu'à briller dans l'atmosphère.",
+    "pt": "As auroras boreais (auroras polares) surgem quando partículas eletricamente carregadas do Sol colidem com o campo magnético da Terra e são excitadas a brilhar na atmosfera.",
+    "it": "Le aurore boreali (aurore polari) si formano quando particelle elettricamente cariche provenienti dal Sole incontrano il campo magnetico terrestre e vengono eccitate fino a brillare nell'atmosfera."
+  },
+  {
+    "en": "Volcanoes don't exist only on Earth: Jupiter's moon Io has hundreds of active volcanoes that spew gigantic fountains of sulfur into space.",
+    "de": "Vulkane gibt es nicht nur auf der Erde: Auf dem Jupitermond Io gibt es Hunderte aktiver Vulkane, die gigantische Fontänen aus Schwefel ins All spucken.",
+    "es": "Los volcanes no existen solo en la Tierra: en Ío, la luna de Júpiter, hay cientos de volcanes activos que escupen al espacio gigantescas fuentes de azufre.",
+    "fr": "Les volcans n'existent pas que sur Terre : sur Io, une lune de Jupiter, on compte des centaines de volcans actifs qui crachent dans l'espace de gigantesques fontaines de soufre.",
+    "pt": "Os vulcões não existem apenas na Terra: em Io, lua de Júpiter, há centenas de vulcões ativos que lançam gigantescas fontes de enxofre para o espaço.",
+    "it": "I vulcani non esistono solo sulla Terra: su Io, una luna di Giove, ci sono centinaia di vulcani attivi che lanciano nello spazio gigantesche fontane di zolfo."
+  },
+  {
+    "en": "As the Earth spins, it drags the atmosphere along with it. That's why we don't notice the rotation on the surface, even though at the equator we are moving at over 1,600 km/h.",
+    "de": "Wenn sich die Erde dreht, reißt sie die Atmosphäre mit sich. Deshalb merken wir auf der Oberfläche nichts von der Rotation, obwohl wir uns am Äquator mit über 1.600 km/h bewegen.",
+    "es": "Cuando la Tierra gira, arrastra consigo la atmósfera. Por eso en la superficie no notamos la rotación, aunque en el ecuador nos desplazamos a más de 1.600 km/h.",
+    "fr": "Lorsque la Terre tourne, elle entraîne l'atmosphère avec elle. C'est pourquoi nous ne ressentons pas la rotation à la surface, bien qu'à l'équateur nous nous déplacions à plus de 1 600 km/h.",
+    "pt": "Quando a Terra gira, ela arrasta a atmosfera junto. Por isso não percebemos a rotação na superfície, embora no equador estejamos nos movendo a mais de 1.600 km/h.",
+    "it": "Mentre la Terra ruota, trascina con sé l'atmosfera. Per questo in superficie non percepiamo la rotazione, anche se all'equatore ci muoviamo a oltre 1.600 km/h."
+  },
+  {
+    "en": "Earthquake waves don't travel at the same speed everywhere. In the hard rock of the deep crust they race along far faster than through the softer layers of sand at the Earth's surface.",
+    "de": "Erdbebenwellen breiten sich nicht überall gleich schnell aus. Im harten Gestein der tiefen Erdkruste rasen sie deutlich schneller als durch weichere Sandschichten an der Erdoberfläche.",
+    "es": "Las ondas sísmicas no se propagan a la misma velocidad en todas partes. En la roca dura de la corteza profunda avanzan mucho más rápido que a través de las capas más blandas de arena en la superficie terrestre.",
+    "fr": "Les ondes sismiques ne se propagent pas partout à la même vitesse. Dans la roche dure de la croûte profonde, elles filent bien plus vite qu'à travers les couches de sable plus meubles de la surface terrestre.",
+    "pt": "As ondas sísmicas não se propagam à mesma velocidade em todos os lugares. Na rocha dura da crosta profunda elas avançam bem mais rápido do que através das camadas mais moles de areia na superfície terrestre.",
+    "it": "Le onde sismiche non si propagano ovunque alla stessa velocità. Nella roccia dura della crosta profonda sfrecciano molto più velocemente che attraverso gli strati di sabbia più morbidi della superficie terrestre."
+  },
+  {
+    "en": "The oceans bind about 50 times more carbon dioxide than the entire Earth's atmosphere, making them our largest and most important climate buffer.",
+    "de": "Die Ozeane binden etwa 50-mal mehr Kohlendioxid als die gesamte Atmosphäre der Erde und sind damit unser größter und wichtigster Klimapuffer.",
+    "es": "Los océanos fijan unas 50 veces más dióxido de carbono que toda la atmósfera terrestre, lo que los convierte en nuestro mayor y más importante amortiguador climático.",
+    "fr": "Les océans fixent environ 50 fois plus de dioxyde de carbone que l'ensemble de l'atmosphère terrestre, ce qui en fait notre plus grand et plus important tampon climatique.",
+    "pt": "Os oceanos fixam cerca de 50 vezes mais dióxido de carbono do que toda a atmosfera da Terra, sendo assim o nosso maior e mais importante amortecedor climático.",
+    "it": "Gli oceani fissano circa 50 volte più anidride carbonica dell'intera atmosfera terrestre, diventando così il nostro più grande e importante cuscinetto climatico."
+  },
+  {
+    "en": "A single massive thunderstorm system can release an amount of energy equivalent to the electricity consumption of an entire major city for several days.",
+    "de": "Ein einzelnes massives Gewittersturmsystem kann eine Energiemenge freisetzen, die dem Stromverbrauch einer ganzen Großstadt für mehrere Tage entspricht.",
+    "es": "Un único y enorme sistema de tormentas puede liberar una cantidad de energía equivalente al consumo eléctrico de toda una gran ciudad durante varios días.",
+    "fr": "Un seul système orageux massif peut libérer une quantité d'énergie équivalant à la consommation électrique d'une grande ville entière pendant plusieurs jours.",
+    "pt": "Um único e enorme sistema de tempestades pode liberar uma quantidade de energia equivalente ao consumo de eletricidade de uma grande cidade inteira durante vários dias.",
+    "it": "Un singolo, imponente sistema temporalesco può liberare una quantità di energia pari al consumo elettrico di un'intera grande città per diversi giorni."
+  },
+  {
+    "en": "The Earth's magnetic field not only protects us from solar storms; it's also the reason migratory birds can navigate safely over thousands of kilometers.",
+    "de": "Das Magnetfeld der Erde schützt uns nicht nur vor Sonnenstürmen, es ist auch der Grund, warum sich Zugvögel über Tausende von Kilometern sicher orientieren können.",
+    "es": "El campo magnético de la Tierra no solo nos protege de las tormentas solares, sino que también es la razón por la que las aves migratorias pueden orientarse con seguridad a lo largo de miles de kilómetros.",
+    "fr": "Le champ magnétique terrestre ne nous protège pas seulement des tempêtes solaires : il explique aussi pourquoi les oiseaux migrateurs peuvent s'orienter en toute sécurité sur des milliers de kilomètres.",
+    "pt": "O campo magnético da Terra não só nos protege das tempestades solares, como também é o motivo pelo qual as aves migratórias conseguem se orientar com segurança ao longo de milhares de quilômetros.",
+    "it": "Il campo magnetico terrestre non solo ci protegge dalle tempeste solari, ma è anche il motivo per cui gli uccelli migratori riescono a orientarsi con sicurezza per migliaia di chilometri."
+  },
+  {
+    "en": "Mount Everest grows about four millimeters taller each year due to the ongoing collision of the Indian and Eurasian continental plates.",
+    "de": "Der Mount Everest wächst durch die anhaltende Kollision der indischen mit der eurasischen Kontinentalplatte jedes Jahr um etwa vier Millimeter in die Höhe.",
+    "es": "El Everest crece unos cuatro milímetros cada año debido a la continua colisión de las placas continentales india y euroasiática.",
+    "fr": "L'Everest gagne environ quatre millimètres de hauteur chaque année en raison de la collision continue des plaques continentales indienne et eurasienne.",
+    "pt": "O Monte Everest cresce cerca de quatro milímetros em altura a cada ano devido à colisão contínua das placas continentais indiana e eurasiática.",
+    "it": "L'Everest cresce di circa quattro millimetri in altezza ogni anno a causa della continua collisione tra la placca continentale indiana e quella eurasiatica."
+  },
+  {
+    "en": "Sandstorms in the Sahara can whirl up so much dust into the atmosphere that it is carried across the Atlantic and fertilizes the Amazon rainforest.",
+    "de": "Sandstürme in der Sahara können so viel Staub in die Atmosphäre wirbeln, dass dieser über den Atlantik getragen wird und den Amazonas-Regenwald düngt.",
+    "es": "Las tormentas de arena del Sahara pueden levantar tanto polvo a la atmósfera que este es transportado a través del Atlántico y fertiliza la selva amazónica.",
+    "fr": "Les tempêtes de sable au Sahara peuvent soulever tant de poussière dans l'atmosphère que celle-ci est transportée à travers l'Atlantique et fertilise la forêt amazonienne.",
+    "pt": "As tempestades de areia no Saara podem levantar tanta poeira para a atmosfera que ela é transportada pelo Atlântico e fertiliza a floresta amazônica.",
+    "it": "Le tempeste di sabbia nel Sahara possono sollevare nell'atmosfera così tanta polvere da essere trasportata attraverso l'Atlantico fino a fertilizzare la foresta amazzonica."
+  },
+  {
+    "en": "Saturn's rings are not made of solid bands but of countless chunks of ice and rock, some as small as dust grains and some as large as single-family houses.",
+    "de": "Die Ringe des Saturn bestehen nicht aus massiven Bändern, sondern aus unzähligen Eis- und Gesteinsbrocken, die teilweise so klein wie Staubkörner oder so groß wie Einfamilienhäuser sind.",
+    "es": "Los anillos de Saturno no están formados por bandas sólidas, sino por innumerables fragmentos de hielo y roca, algunos tan pequeños como granos de polvo y otros tan grandes como casas unifamiliares.",
+    "fr": "Les anneaux de Saturne ne sont pas constitués de bandes solides, mais d'innombrables blocs de glace et de roche, certains aussi petits que des grains de poussière, d'autres aussi grands que des maisons individuelles.",
+    "pt": "Os anéis de Saturno não são formados por faixas sólidas, mas por incontáveis fragmentos de gelo e rocha, alguns tão pequenos quanto grãos de poeira e outros tão grandes quanto casas.",
+    "it": "Gli anelli di Saturno non sono costituiti da fasce solide, ma da innumerevoli frammenti di ghiaccio e roccia, alcuni piccoli come granelli di polvere, altri grandi come case unifamiliari."
+  },
+  {
+    "en": "A solar day on the ISS lasts just 90 minutes. The astronauts therefore work and sleep on a strict schedule dictated by artificial world time (UTC) so as not to lose all sense of orientation.",
+    "de": "Ein Sonnentag auf der ISS dauert nur 90 Minuten. Die Astronauten arbeiten und schlafen daher in einem strengen Rhythmus, der von der künstlichen Weltzeit (UTC) diktiert wird, um nicht völlig die Orientierung zu verlieren.",
+    "es": "Un día solar en la EEI dura solo 90 minutos. Por ello los astronautas trabajan y duermen siguiendo un ritmo estricto dictado por la hora universal artificial (UTC), para no perder por completo la orientación.",
+    "fr": "Un jour solaire sur l'ISS ne dure que 90 minutes. Les astronautes travaillent et dorment donc selon un rythme strict dicté par l'heure universelle artificielle (UTC), afin de ne pas perdre tout repère.",
+    "pt": "Um dia solar na ISS dura apenas 90 minutos. Por isso os astronautas trabalham e dormem em um ritmo rigoroso ditado pela hora universal artificial (UTC), para não perderem completamente a orientação.",
+    "it": "Un giorno solare sulla ISS dura solo 90 minuti. Gli astronauti lavorano e dormono quindi secondo un ritmo rigoroso dettato dall'ora universale artificiale (UTC), per non perdere del tutto l'orientamento."
+  },
+  {
+    "en": "Deep-sea earthquakes can abruptly raise or lower the seafloor by several meters, displacing the enormous masses of water above and thus triggering tsunamis.",
+    "de": "Tiefseebeben können den Meeresboden schlagartig um mehrere Meter anheben oder absenken, was die darüberliegenden riesigen Wassermassen verdrängt und so Tsunamis auslöst.",
+    "es": "Los seísmos de aguas profundas pueden elevar o hundir bruscamente el fondo marino varios metros, lo que desplaza las enormes masas de agua situadas encima y desencadena así tsunamis.",
+    "fr": "Les séismes en eaux profondes peuvent brusquement soulever ou abaisser le fond marin de plusieurs mètres, déplaçant les énormes masses d'eau situées au-dessus et déclenchant ainsi des tsunamis.",
+    "pt": "Os terremotos de águas profundas podem elevar ou rebaixar abruptamente o fundo do mar em vários metros, o que desloca as enormes massas de água acima e desencadeia assim tsunamis.",
+    "it": "I terremoti delle profondità marine possono sollevare o abbassare bruscamente il fondale di diversi metri, spostando le enormi masse d'acqua sovrastanti e innescando così gli tsunami."
+  },
+  {
+    "en": "A tornado is usually on the ground for only a few minutes, but in that extremely short time it can reach destructive wind speeds of over 400 km/h.",
+    "de": "Ein Tornado ist meist nur wenige Minuten am Boden, kann aber in dieser extrem kurzen Zeit zerstörerische Windgeschwindigkeiten von über 400 km/h erreichen.",
+    "es": "Un tornado suele tocar el suelo solo unos minutos, pero en ese lapso extremadamente corto puede alcanzar velocidades de viento destructivas de más de 400 km/h.",
+    "fr": "Une tornade ne touche généralement le sol que quelques minutes, mais en ce laps de temps extrêmement court elle peut atteindre des vitesses de vent destructrices de plus de 400 km/h.",
+    "pt": "Um tornado geralmente toca o solo por apenas alguns minutos, mas nesse tempo extremamente curto pode atingir velocidades de vento destrutivas de mais de 400 km/h.",
+    "it": "Un tornado tocca il suolo di solito solo per pochi minuti, ma in questo lasso di tempo estremamente breve può raggiungere velocità del vento distruttive di oltre 400 km/h."
+  },
+  {
+    "en": "The so-called \"black smokers\" on the ocean floor are hydrothermal vents from which water up to 400 degrees hot and rich in minerals gushes out without boiling – solely because of the extreme water pressure of the deep sea.",
+    "de": "Die sogenannten „Schwarzen Raucher“ am Grund der Ozeane sind hydrothermale Quellen, aus denen bis zu 400 Grad heißes, mineralreiches Wasser schießt, ohne zu kochen – allein wegen des extremen Wasserdrucks der Tiefsee.",
+    "es": "Las llamadas «fumarolas negras» del fondo de los océanos son fuentes hidrotermales de las que brota agua de hasta 400 grados, rica en minerales, sin hervir, únicamente debido a la extrema presión del agua en las profundidades.",
+    "fr": "Les « fumeurs noirs » au fond des océans sont des sources hydrothermales d'où jaillit une eau riche en minéraux, à jusqu'à 400 degrés, sans bouillir – uniquement en raison de la pression extrême de l'eau dans les abysses.",
+    "pt": "As chamadas \"fontes negras\" no fundo dos oceanos são fontes hidrotermais das quais jorra água de até 400 graus, rica em minerais, sem ferver – unicamente por causa da pressão extrema da água nas profundezas.",
+    "it": "I cosiddetti \"fumatori neri\" sul fondo degli oceani sono sorgenti idrotermali da cui sgorga acqua ricca di minerali fino a 400 gradi, senza bollire – unicamente a causa della pressione estrema dell'acqua negli abissi."
+  },
+  {
+    "en": "Stars shine in different colors that reveal their temperature: red stars are comparatively \"cool,\" while bluish stars burn extremely hot.",
+    "de": "Sterne leuchten in unterschiedlichen Farben, die uns ihre Temperatur verraten: Rote Sterne sind vergleichsweise „kühl“, während bläuliche Sterne extrem heiß brennen.",
+    "es": "Las estrellas brillan en distintos colores que revelan su temperatura: las estrellas rojas son comparativamente «frías», mientras que las azuladas arden a temperaturas extremas.",
+    "fr": "Les étoiles brillent de différentes couleurs qui trahissent leur température : les étoiles rouges sont comparativement « froides », tandis que les étoiles bleutées brûlent à des températures extrêmes.",
+    "pt": "As estrelas brilham em cores diferentes que revelam sua temperatura: as estrelas vermelhas são comparativamente \"frias\", enquanto as azuladas queimam a temperaturas extremas.",
+    "it": "Le stelle brillano di colori diversi che ne rivelano la temperatura: le stelle rosse sono relativamente \"fredde\", mentre quelle bluastre bruciano a temperature estreme."
+  },
+  {
+    "en": "Earth is the only known object in the universe on which water permanently exists in all three physical states – liquid, solid as ice, and gaseous as water vapor.",
+    "de": "Die Erde ist das einzige bekannte Objekt im Universum, auf dem Wasser dauerhaft in allen drei physikalischen Aggregatzuständen – flüssig, fest als Eis und gasförmig als Wasserdampf – existiert.",
+    "es": "La Tierra es el único objeto conocido del universo en el que el agua existe de forma permanente en sus tres estados físicos: líquido, sólido como hielo y gaseoso como vapor de agua.",
+    "fr": "La Terre est le seul objet connu de l'univers sur lequel l'eau existe en permanence dans ses trois états physiques : liquide, solide sous forme de glace et gazeux sous forme de vapeur d'eau.",
+    "pt": "A Terra é o único objeto conhecido no universo no qual a água existe permanentemente nos três estados físicos – líquido, sólido como gelo e gasoso como vapor d'água.",
+    "it": "La Terra è l'unico oggetto conosciuto nell'universo su cui l'acqua esiste in modo permanente in tutti e tre gli stati fisici: liquido, solido sotto forma di ghiaccio e gassoso sotto forma di vapore acqueo."
   }
 ]
