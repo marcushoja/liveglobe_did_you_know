@@ -398,5 +398,405 @@
     "fr": "La Terre est le seul objet connu de l'univers sur lequel l'eau existe en permanence dans ses trois états physiques : liquide, solide sous forme de glace et gazeux sous forme de vapeur d'eau.",
     "pt": "A Terra é o único objeto conhecido no universo no qual a água existe permanentemente nos três estados físicos – líquido, sólido como gelo e gasoso como vapor d'água.",
     "it": "La Terra è l'unico oggetto conosciuto nell'universo su cui l'acqua esiste in modo permanente in tutti e tre gli stati fisici: liquido, solido sotto forma di ghiaccio e gassoso sotto forma di vapore acqueo."
+  },
+  {
+    "en": "The magnitude scale for earthquakes is logarithmic. A magnitude 7 quake releases about 32 times as much energy as a magnitude 6 and roughly 1,000 times as much as a magnitude 5.",
+    "de": "Die Magnituden-Skala bei Erdbeben ist logarithmisch aufgebaut. Ein Beben der Stärke 7 setzt etwa 32-mal so viel Energie frei wie eines der Stärke 6 und rund 1.000-mal so viel wie eines der Stärke 5.",
+    "es": "La escala de magnitud de los terremotos es logarítmica. Un sismo de magnitud 7 libera aproximadamente 32 veces más energía que uno de magnitud 6 y unas 1.000 veces más que uno de magnitud 5.",
+    "fr": "L'échelle de magnitude des séismes est logarithmique. Un séisme de magnitude 7 libère environ 32 fois plus d'énergie qu'un séisme de magnitude 6 et près de 1 000 fois plus qu'un séisme de magnitude 5.",
+    "pt": "A escala de magnitude dos terremotos é logarítmica. Um sismo de magnitude 7 libera cerca de 32 vezes mais energia do que um de magnitude 6 e aproximadamente 1.000 vezes mais do que um de magnitude 5.",
+    "it": "La scala di magnitudo dei terremoti è logaritmica. Un sisma di magnitudo 7 libera circa 32 volte più energia di uno di magnitudo 6 e all'incirca 1.000 volte più di uno di magnitudo 5."
+  },
+  {
+    "en": "Hurricane, typhoon and cyclone all describe exactly the same weather phenomenon. What the tropical storm is called depends solely on which ocean it forms in.",
+    "de": "Hurrikan, Taifun und Zyklon beschreiben exakt dasselbe Wetterphänomen. Wie der tropische Wirbelsturm genannt wird, hängt einzig und allein davon ab, in welchem Ozean er sich bildet.",
+    "es": "Huracán, tifón y ciclón describen exactamente el mismo fenómeno meteorológico. El nombre que recibe la tormenta tropical depende únicamente del océano en el que se forma.",
+    "fr": "Ouragan, typhon et cyclone décrivent exactement le même phénomène météorologique. Le nom donné à la tempête tropicale dépend uniquement de l'océan dans lequel elle se forme.",
+    "pt": "Furacão, tufão e ciclone descrevem exatamente o mesmo fenômeno meteorológico. O nome dado à tempestade tropical depende unicamente do oceano em que ela se forma.",
+    "it": "Uragano, tifone e ciclone descrivono esattamente lo stesso fenomeno meteorologico. Il nome dato alla tempesta tropicale dipende unicamente dall'oceano in cui si forma."
+  },
+  {
+    "en": "On conventional 2D world maps (Mercator projection), Greenland often looks almost as big as Africa. On a 3D globe, however, the reality becomes clear: Africa is actually about 14 times larger than Greenland.",
+    "de": "Auf herkömmlichen 2D-Weltkarten (Mercator-Projektion) sieht Grönland oft fast genauso groß aus wie Afrika. Auf einem 3D-Globus zeigt sich jedoch die Realität: Afrika ist in Wahrheit etwa 14-mal größer als Grönland.",
+    "es": "En los mapas mundiales en 2D convencionales (proyección de Mercator), Groenlandia suele parecer casi tan grande como África. Sin embargo, en un globo terráqueo en 3D se revela la realidad: África es en verdad unas 14 veces más grande que Groenlandia.",
+    "fr": "Sur les cartes du monde classiques en 2D (projection de Mercator), le Groenland paraît souvent presque aussi grand que l'Afrique. Sur un globe en 3D, la réalité apparaît cependant : l'Afrique est en vérité environ 14 fois plus grande que le Groenland.",
+    "pt": "Nos mapas-múndi 2D convencionais (projeção de Mercator), a Groenlândia muitas vezes parece quase tão grande quanto a África. Em um globo 3D, porém, a realidade se revela: a África é, na verdade, cerca de 14 vezes maior que a Groenlândia.",
+    "it": "Sulle comuni carte geografiche in 2D (proiezione di Mercatore), la Groenlandia appare spesso quasi grande quanto l'Africa. Su un mappamondo in 3D, però, emerge la realtà: l'Africa è in verità circa 14 volte più grande della Groenlandia."
+  },
+  {
+    "en": "An earthquake produces different types of waves. The so-called primary waves (P-waves) are so fast that they often make themselves felt seconds before the more destructive secondary waves.",
+    "de": "Bei einem Erdbeben entstehen verschiedene Wellenarten. Die sogenannten Primärwellen (P-Wellen) sind so schnell, dass sie sich oft schon Sekunden vor den zerstörerischeren Sekundärwellen bemerkbar machen.",
+    "es": "Durante un terremoto se generan distintos tipos de ondas. Las llamadas ondas primarias (ondas P) son tan rápidas que a menudo se hacen notar segundos antes que las ondas secundarias, más destructivas.",
+    "fr": "Lors d'un séisme se forment différents types d'ondes. Les ondes dites primaires (ondes P) sont si rapides qu'elles se font souvent sentir quelques secondes avant les ondes secondaires, plus destructrices.",
+    "pt": "Durante um terremoto surgem diferentes tipos de ondas. As chamadas ondas primárias (ondas P) são tão rápidas que muitas vezes se fazem notar segundos antes das ondas secundárias, mais destrutivas.",
+    "it": "Durante un terremoto si generano diversi tipi di onde. Le cosiddette onde primarie (onde P) sono così veloci da farsi spesso sentire alcuni secondi prima delle onde secondarie, più distruttive."
+  },
+  {
+    "en": "The greatest danger from a tropical storm is usually not the extreme wind, but the so-called storm surge. It pushes enormous masses of water onto the coast and often causes the most damage.",
+    "de": "Die größte Gefahr bei einem tropischen Wirbelsturm ist meist nicht der extreme Wind, sondern die sogenannte Sturmflut. Sie drückt gewaltige Wassermassen an die Küste und verursacht oft die meisten Schäden.",
+    "es": "El mayor peligro de una tormenta tropical no suele ser el viento extremo, sino la llamada marea de tempestad. Esta empuja enormes masas de agua hacia la costa y a menudo causa los mayores daños.",
+    "fr": "Le plus grand danger d'une tempête tropicale n'est généralement pas le vent extrême, mais ce qu'on appelle l'onde de tempête. Elle pousse d'énormes masses d'eau vers la côte et provoque souvent le plus de dégâts.",
+    "pt": "O maior perigo de uma tempestade tropical geralmente não é o vento extremo, mas a chamada maré de tempestade. Ela empurra enormes massas de água em direção à costa e costuma causar os maiores danos.",
+    "it": "Il pericolo maggiore di una tempesta tropicale di solito non è il vento estremo, bensì la cosiddetta mareggiata. Essa spinge enormi masse d'acqua verso la costa e provoca spesso i danni più gravi."
+  },
+  {
+    "en": "Not all earthquakes happen directly beneath the Earth's surface. So-called deep-focus quakes can occur at an incredible depth of 700 kilometers, where the rock is actually plastic due to extreme heat and pressure.",
+    "de": "Nicht alle Erdbeben passieren direkt unter der Erdoberfläche. Sogenannte Tiefbeben können in unglaublichen 700 Kilometern Tiefe stattfinden, wo das Gestein durch extreme Hitze und Druck eigentlich plastisch ist.",
+    "es": "No todos los terremotos ocurren directamente bajo la superficie terrestre. Los llamados sismos profundos pueden producirse a una profundidad increíble de 700 kilómetros, donde la roca, por el calor y la presión extremos, es en realidad plástica.",
+    "fr": "Tous les séismes ne se produisent pas juste sous la surface de la Terre. Les séismes dits profonds peuvent avoir lieu à une profondeur incroyable de 700 kilomètres, où la roche est en réalité plastique sous l'effet de la chaleur et de la pression extrêmes.",
+    "pt": "Nem todos os terremotos acontecem diretamente sob a superfície da Terra. Os chamados sismos profundos podem ocorrer a uma profundidade incrível de 700 quilômetros, onde a rocha, devido ao calor e à pressão extremos, é na verdade plástica.",
+    "it": "Non tutti i terremoti avvengono direttamente sotto la superficie terrestre. I cosiddetti terremoti profondi possono verificarsi a un'incredibile profondità di 700 chilometri, dove la roccia, a causa del calore e della pressione estremi, è in realtà plastica."
+  },
+  {
+    "en": "The ISS regularly has to perform evasive maneuvers. About once a year its thrusters fire to give the station a little boost so it doesn't collide with hurtling space debris.",
+    "de": "Die ISS muss regelmäßig Ausweichmanöver fliegen. Etwa einmal im Jahr zünden die Triebwerke, um der Station einen kleinen Schubs zu geben, damit sie nicht mit rasend schnell fliegendem Weltraumschrott kollidiert.",
+    "es": "La ISS debe realizar maniobras de evasión con regularidad. Aproximadamente una vez al año se encienden los propulsores para dar a la estación un pequeño empujón y evitar que choque con basura espacial que vuela a gran velocidad.",
+    "fr": "L'ISS doit régulièrement effectuer des manœuvres d'évitement. Environ une fois par an, les propulseurs s'allument pour donner une petite poussée à la station afin qu'elle n'entre pas en collision avec des débris spatiaux filant à toute vitesse.",
+    "pt": "A ISS precisa realizar manobras de desvio regularmente. Cerca de uma vez por ano os propulsores são acionados para dar à estação um pequeno empurrão, evitando que ela colida com lixo espacial que voa em altíssima velocidade.",
+    "it": "La ISS deve effettuare regolarmente manovre evasive. Circa una volta all'anno i propulsori si accendono per dare alla stazione una piccola spinta, in modo che non si scontri con i detriti spaziali che sfrecciano a velocità folle."
+  },
+  {
+    "en": "In just a single hour, the Sun delivers more energy to the Earth than all of humanity consumes in an entire year.",
+    "de": "Die Sonne liefert in nur einer einzigen Stunde mehr Energie auf die Erde, als die gesamte Menschheit in einem ganzen Jahr verbraucht.",
+    "es": "El Sol aporta a la Tierra en una sola hora más energía de la que toda la humanidad consume en un año entero.",
+    "fr": "En une seule heure, le Soleil fournit à la Terre plus d'énergie que l'humanité entière n'en consomme en une année entière.",
+    "pt": "Em apenas uma única hora, o Sol fornece à Terra mais energia do que toda a humanidade consome em um ano inteiro.",
+    "it": "In una sola ora il Sole fornisce alla Terra più energia di quanta ne consumi l'intera umanità in un anno intero."
+  },
+  {
+    "en": "There are flashes of lightning that shoot not toward the ground but upward into space. These rare, red-glowing phenomena high up in the atmosphere are called \"red sprites.\"",
+    "de": "Es gibt Blitze, die nicht in Richtung Boden, sondern nach oben in den Weltraum schießen. Diese seltenen, rot leuchtenden Erscheinungen hoch oben in der Atmosphäre nennt man „Red Sprites“ (Rote Kobolde).",
+    "es": "Existen rayos que no se disparan hacia el suelo, sino hacia arriba, en dirección al espacio. Estos raros fenómenos de brillo rojizo en lo alto de la atmósfera se denominan \"red sprites\" (duendes rojos).",
+    "fr": "Il existe des éclairs qui ne jaillissent pas vers le sol, mais vers le haut, en direction de l'espace. Ces phénomènes rares, d'un rouge lumineux, situés tout en haut de l'atmosphère, sont appelés « red sprites » (farfadets rouges).",
+    "pt": "Existem relâmpagos que não disparam em direção ao solo, mas para cima, rumo ao espaço. Esses raros fenômenos de brilho avermelhado, no alto da atmosfera, são chamados de \"red sprites\" (duendes vermelhos).",
+    "it": "Esistono fulmini che non si scagliano verso il suolo, ma verso l'alto, in direzione dello spazio. Questi rari fenomeni dal bagliore rosso, in cima all'atmosfera, sono chiamati «red sprites» (folletti rossi)."
+  },
+  {
+    "en": "The Earth quakes on the Moon too – or rather, the Moon does. These \"moonquakes\" are usually triggered by the Earth's tidal forces and can last for hours, because the lunar rock is very rigid and dry.",
+    "de": "Auch auf dem Mond bebt die Erde – beziehungsweise der Mond. Diese „Mondbeben“ werden meist durch die Gezeitenkräfte der Erde ausgelöst und können stundenlang andauern, da das Mondgestein sehr starr und trocken ist.",
+    "es": "En la Luna también tiembla la Tierra; o, mejor dicho, la Luna. Estos \"sismos lunares\" suelen ser provocados por las fuerzas de marea de la Tierra y pueden durar horas, ya que la roca lunar es muy rígida y seca.",
+    "fr": "Sur la Lune aussi, la Terre tremble – ou plutôt la Lune. Ces « séismes lunaires » sont généralement déclenchés par les forces de marée de la Terre et peuvent durer des heures, car la roche lunaire est très rigide et sèche.",
+    "pt": "Na Lua também a Terra treme – ou melhor, a Lua. Esses \"sismos lunares\" geralmente são desencadeados pelas forças de maré da Terra e podem durar horas, pois a rocha lunar é muito rígida e seca.",
+    "it": "Anche sulla Luna la Terra trema – o meglio, la Luna. Questi «terremoti lunari» sono di solito innescati dalle forze di marea della Terra e possono durare ore, poiché la roccia lunare è molto rigida e secca."
+  },
+  {
+    "en": "The fresh, clean feeling in the air after a heavy thunderstorm has a chemical reason: the extreme electrical discharges of the lightning split oxygen molecules, creating ozone, which gives off that characteristic smell.",
+    "de": "Das frische, saubere Gefühl in der Luft nach einem schweren Gewitter hat einen chemischen Grund: Die extremen elektrischen Entladungen der Blitze spalten Sauerstoffmoleküle, wodurch Ozon entsteht, das diesen typischen Geruch verströmt.",
+    "es": "Esa sensación fresca y limpia del aire tras una fuerte tormenta tiene una explicación química: las extremas descargas eléctricas de los rayos dividen las moléculas de oxígeno, generando ozono, que desprende ese olor tan característico.",
+    "fr": "La sensation d'air frais et pur après un violent orage a une explication chimique : les décharges électriques extrêmes des éclairs scindent les molécules d'oxygène, ce qui produit de l'ozone, qui dégage cette odeur si caractéristique.",
+    "pt": "Aquela sensação de ar fresco e limpo após uma forte tempestade tem uma razão química: as extremas descargas elétricas dos raios dividem as moléculas de oxigênio, gerando ozônio, que exala esse cheiro tão característico.",
+    "it": "La sensazione di aria fresca e pulita dopo un forte temporale ha una spiegazione chimica: le estreme scariche elettriche dei fulmini scindono le molecole di ossigeno, generando ozono, che emana quel caratteristico odore."
+  },
+  {
+    "en": "Today we have more precise and detailed maps of the surface of Mars and the Moon than of the floor of our own oceans. Over 80% of the seabed remains completely unexplored to this day.",
+    "de": "Wir besitzen heute exaktere und detailliertere Karten von der Oberfläche des Mars und des Mondes als vom Boden unserer eigenen Ozeane. Über 80 % des Meeresbodens sind bis heute völlig unerforscht.",
+    "es": "Hoy poseemos mapas más exactos y detallados de la superficie de Marte y de la Luna que del fondo de nuestros propios océanos. Más del 80 % del fondo marino sigue completamente inexplorado hasta hoy.",
+    "fr": "Nous possédons aujourd'hui des cartes plus précises et plus détaillées de la surface de Mars et de la Lune que du fond de nos propres océans. Plus de 80 % du plancher océanique reste à ce jour totalement inexploré.",
+    "pt": "Hoje possuímos mapas mais exatos e detalhados da superfície de Marte e da Lua do que do fundo de nossos próprios oceanos. Mais de 80% do leito marinho permanece completamente inexplorado até hoje.",
+    "it": "Oggi possediamo mappe più precise e dettagliate della superficie di Marte e della Luna che del fondo dei nostri stessi oceani. Oltre l'80% del fondale marino è tuttora completamente inesplorato."
+  },
+  {
+    "en": "Highly sensitive seismographs measure far more than just earthquakes. They also record the constant noise of ocean waves, heavy urban traffic and even the powerful tremors of mighty storms.",
+    "de": "Hochsensible Seismographen messen längst nicht nur Erdbeben. Sie zeichnen auch das ständige Rauschen der Ozeanwellen, den schweren städtischen Verkehr und sogar die starken Erschütterungen gewaltiger Stürme auf.",
+    "es": "Los sismógrafos de alta sensibilidad miden mucho más que solo terremotos. También registran el rumor constante de las olas del océano, el intenso tráfico urbano e incluso las fuertes sacudidas de enormes tormentas.",
+    "fr": "Les sismographes très sensibles mesurent bien plus que les seuls séismes. Ils enregistrent aussi le grondement permanent des vagues océaniques, le trafic urbain intense et même les fortes secousses des tempêtes les plus violentes.",
+    "pt": "Os sismógrafos de alta sensibilidade medem muito mais do que apenas terremotos. Eles também registram o ruído constante das ondas do oceano, o intenso tráfego urbano e até mesmo os fortes abalos de enormes tempestades.",
+    "it": "I sismografi ad alta sensibilità misurano molto più dei soli terremoti. Registrano anche il costante rumore delle onde oceaniche, l'intenso traffico urbano e persino le forti scosse delle tempeste più violente."
+  },
+  {
+    "en": "The point on the globe where the equator and the prime meridian cross (0 degrees latitude, 0 degrees longitude) is jokingly called \"Null Island\" by geoinformatics specialists. In reality, only a lone weather buoy floats there in the middle of the Atlantic.",
+    "de": "Der Punkt auf dem Globus, an dem sich der Äquator und der Nullmeridian kreuzen (0 Grad Breite, 0 Grad Länge), wird von Geoinformatikern scherzhaft „Null Island“ genannt. In der Realität schwimmt dort mitten im Atlantik nur eine einsame Wetterboje.",
+    "es": "El punto del globo donde se cruzan el ecuador y el meridiano cero (0 grados de latitud, 0 grados de longitud) es llamado en broma \"Null Island\" por los expertos en geoinformática. En realidad, allí, en medio del Atlántico, solo flota una solitaria boya meteorológica.",
+    "fr": "Le point du globe où se croisent l'équateur et le méridien d'origine (0 degré de latitude, 0 degré de longitude) est appelé par plaisanterie « Null Island » par les spécialistes de la géoinformatique. En réalité, il n'y flotte qu'une bouée météo solitaire, au beau milieu de l'Atlantique.",
+    "pt": "O ponto do globo onde se cruzam o equador e o meridiano de Greenwich (0 grau de latitude, 0 grau de longitude) é chamado de brincadeira de \"Null Island\" pelos especialistas em geoinformática. Na realidade, ali, no meio do Atlântico, flutua apenas uma solitária boia meteorológica.",
+    "it": "Il punto del globo in cui si incrociano l'equatore e il meridiano di Greenwich (0 gradi di latitudine, 0 gradi di longitudine) è chiamato scherzosamente «Null Island» dagli esperti di geoinformatica. In realtà lì, in mezzo all'Atlantico, galleggia solo una solitaria boa meteorologica."
+  },
+  {
+    "en": "Tropical storms on Earth usually dissipate again after a few days or weeks. The \"Great Red Spot\" on Jupiter, by contrast, is a gigantic storm that has been raging without interruption for over 300 years.",
+    "de": "Tropische Wirbelstürme auf der Erde lösen sich meist nach einigen Tagen oder Wochen wieder auf. Der „Große Rote Fleck“ auf dem Jupiter ist hingegen ein gigantischer Sturm, der bereits seit über 300 Jahren ohne Unterbrechung wütet.",
+    "es": "Las tormentas tropicales en la Tierra suelen disiparse de nuevo tras unos días o semanas. La \"Gran Mancha Roja\" de Júpiter, en cambio, es una tormenta gigantesca que lleva más de 300 años bramando sin interrupción.",
+    "fr": "Les tempêtes tropicales sur Terre se dissipent généralement après quelques jours ou semaines. La « Grande Tache rouge » de Jupiter, en revanche, est une tempête gigantesque qui fait rage sans interruption depuis plus de 300 ans.",
+    "pt": "As tempestades tropicais na Terra costumam se dissipar após alguns dias ou semanas. A \"Grande Mancha Vermelha\" de Júpiter, por outro lado, é uma tempestade gigantesca que já se enfurece sem interrupção há mais de 300 anos.",
+    "it": "Le tempeste tropicali sulla Terra di solito si dissolvono dopo alcuni giorni o settimane. La «Grande Macchia Rossa» di Giove, invece, è una tempesta gigantesca che infuria senza interruzione da oltre 300 anni."
+  },
+  {
+    "en": "When the ISS passes over us at night, it often shines brighter than most stars in the sky. However, it does not blink like an ordinary airplane, but moves across the firmament as a continuously glowing, fast-moving point.",
+    "de": "Wenn die ISS nachts über uns hinwegfliegt, leuchtet sie oft heller als die meisten Sterne am Himmel. Sie blinkt jedoch nicht wie ein herkömmliches Flugzeug, sondern zieht als durchgehend leuchtender, schneller Punkt über das Firmament.",
+    "es": "Cuando la ISS pasa sobre nosotros de noche, a menudo brilla más que la mayoría de las estrellas del cielo. Sin embargo, no parpadea como un avión convencional, sino que recorre el firmamento como un punto rápido que brilla de forma continua.",
+    "fr": "Lorsque l'ISS passe au-dessus de nous la nuit, elle brille souvent plus que la plupart des étoiles du ciel. Elle ne clignote toutefois pas comme un avion ordinaire, mais traverse le firmament comme un point rapide qui brille de manière continue.",
+    "pt": "Quando a ISS passa sobre nós à noite, muitas vezes brilha mais do que a maioria das estrelas no céu. No entanto, ela não pisca como um avião comum, mas cruza o firmamento como um ponto rápido que brilha de forma contínua.",
+    "it": "Quando di notte la ISS passa sopra di noi, spesso brilla più della maggior parte delle stelle nel cielo. Tuttavia non lampeggia come un comune aereo, ma attraversa il firmamento come un punto veloce che brilla in modo continuo."
+  },
+  {
+    "en": "Whether animals can really sense earthquakes in advance is scientifically disputed. It is assumed, however, that they perceive the fine microvibrations of the Earth's crust much earlier and more sensitively than we humans do.",
+    "de": "Ob Tiere Erdbeben wirklich vorab spüren können, ist wissenschaftlich umstritten. Man geht aber davon aus, dass sie die feinen Mikrovibrationen der Erdkruste deutlich früher und sensibler wahrnehmen als wir Menschen.",
+    "es": "Que los animales puedan realmente percibir los terremotos con antelación es algo científicamente discutido. Se supone, no obstante, que perciben las finas microvibraciones de la corteza terrestre mucho antes y con más sensibilidad que nosotros, los humanos.",
+    "fr": "Le fait que les animaux puissent réellement pressentir les séismes à l'avance est scientifiquement controversé. On suppose toutefois qu'ils perçoivent les fines microvibrations de la croûte terrestre bien plus tôt et plus finement que nous, les humains.",
+    "pt": "Se os animais conseguem realmente pressentir os terremotos com antecedência é algo cientificamente controverso. Supõe-se, no entanto, que eles percebem as finas microvibrações da crosta terrestre muito mais cedo e com mais sensibilidade do que nós, humanos.",
+    "it": "Se gli animali possano davvero percepire i terremoti in anticipo è scientificamente controverso. Si ritiene tuttavia che percepiscano le sottili microvibrazioni della crosta terrestre molto prima e con maggiore sensibilità rispetto a noi esseri umani."
+  },
+  {
+    "en": "The Earth gets a tiny bit heavier every day. Around 40 to 50 tons of cosmic dust and tiny meteorites rain down on our planet from space every day, completely unnoticed.",
+    "de": "Die Erde wird jeden Tag ein kleines bisschen schwerer. Rund 40 bis 50 Tonnen kosmischer Staub und winzige Meteoriten rieseln täglich völlig unbemerkt aus dem Weltall auf unseren Planeten herab.",
+    "es": "La Tierra se vuelve cada día un poquito más pesada. Alrededor de 40 a 50 toneladas de polvo cósmico y diminutos meteoritos caen a diario sobre nuestro planeta desde el espacio, totalmente desapercibidos.",
+    "fr": "La Terre devient chaque jour un tout petit peu plus lourde. Environ 40 à 50 tonnes de poussière cosmique et de minuscules météorites tombent chaque jour sur notre planète depuis l'espace, totalement inaperçues.",
+    "pt": "A Terra fica um pouquinho mais pesada a cada dia. Cerca de 40 a 50 toneladas de poeira cósmica e minúsculos meteoritos caem diariamente sobre o nosso planeta vindas do espaço, de forma totalmente despercebida.",
+    "it": "La Terra diventa ogni giorno un pochino più pesante. Circa 40-50 tonnellate di polvere cosmica e minuscoli meteoriti piovono ogni giorno sul nostro pianeta dallo spazio, in modo del tutto inosservato."
+  },
+  {
+    "en": "During strong earthquakes, firm, water-saturated sandy ground can suddenly take on the properties of a liquid. This phenomenon is called soil liquefaction, and it can cause entire buildings to sink into the ground.",
+    "de": "Bei starken Erdbeben kann fester, wassergesättigter Sandboden plötzlich die Eigenschaften einer Flüssigkeit annehmen. Dieses Phänomen nennt man Bodenverflüssigung, und es lässt teilweise ganze Gebäude im Untergrund versinken.",
+    "es": "Durante terremotos fuertes, un suelo arenoso firme y saturado de agua puede adquirir de repente las propiedades de un líquido. Este fenómeno se denomina licuefacción del suelo y, en ocasiones, hace que edificios enteros se hundan en el subsuelo.",
+    "fr": "Lors de séismes violents, un sol sableux ferme et saturé d'eau peut soudainement prendre les propriétés d'un liquide. Ce phénomène, appelé liquéfaction du sol, peut faire s'enfoncer des bâtiments entiers dans le sous-sol.",
+    "pt": "Durante terremotos fortes, um solo arenoso firme e saturado de água pode subitamente adquirir as propriedades de um líquido. Esse fenômeno é chamado de liquefação do solo e, por vezes, faz com que edifícios inteiros afundem no subsolo.",
+    "it": "Durante forti terremoti, un terreno sabbioso compatto e saturo d'acqua può improvvisamente assumere le proprietà di un liquido. Questo fenomeno è chiamato liquefazione del suolo e talvolta fa sprofondare interi edifici nel sottosuolo."
+  },
+  {
+    "en": "If you shrank the Earth down to exactly the size of a billiard ball, it would actually be smoother than a real billiard ball, despite all its mighty mountain ranges and deep ocean trenches.",
+    "de": "Wenn man die Erde exakt auf die Größe einer Billardkugel schrumpfen würde, wäre sie trotz all ihrer gewaltigen Gebirge und tiefen Ozeangräben tatsächlich glatter als eine echte Billardkugel.",
+    "es": "Si se redujera la Tierra exactamente al tamaño de una bola de billar, sería en realidad más lisa que una bola de billar de verdad, a pesar de todas sus enormes cordilleras y profundas fosas oceánicas.",
+    "fr": "Si l'on réduisait la Terre exactement à la taille d'une boule de billard, elle serait en réalité plus lisse qu'une vraie boule de billard, malgré toutes ses immenses chaînes de montagnes et ses profondes fosses océaniques.",
+    "pt": "Se a Terra fosse reduzida exatamente ao tamanho de uma bola de bilhar, ela seria, na verdade, mais lisa do que uma bola de bilhar de verdade, apesar de todas as suas enormes cadeias de montanhas e profundas fossas oceânicas.",
+    "it": "Se si riducesse la Terra esattamente alle dimensioni di una palla da biliardo, essa sarebbe in realtà più liscia di una vera palla da biliardo, nonostante tutte le sue imponenti catene montuose e le profonde fosse oceaniche."
+  },
+  {
+    "en": "The \"Earth bell\": after extremely strong earthquakes, the entire Earth can keep vibrating within itself for weeks like a giant bell – measurably, but inaudibly to us.",
+    "de": "Die „Erdglocke“: Nach extrem starken Erdbeben kann die gesamte Erde wie eine riesige Glocke noch wochenlang messbar, aber für uns unhörbar, in sich weiterschwingen.",
+    "es": "La \"campana terrestre\": tras terremotos extremadamente fuertes, toda la Tierra puede seguir vibrando dentro de sí misma durante semanas como una campana gigantesca, de forma medible, pero inaudible para nosotros.",
+    "fr": "La « cloche terrestre » : après des séismes extrêmement violents, la Terre entière peut continuer à vibrer en elle-même pendant des semaines comme une cloche géante, de manière mesurable mais inaudible pour nous.",
+    "pt": "O \"sino terrestre\": após terremotos extremamente fortes, a Terra inteira pode continuar vibrando dentro de si por semanas como um sino gigantesco, de forma mensurável, mas inaudível para nós.",
+    "it": "La «campana terrestre»: dopo terremoti estremamente forti, l'intera Terra può continuare a vibrare su sé stessa per settimane come una campana gigantesca, in modo misurabile ma per noi impercettibile."
+  },
+  {
+    "en": "Wafer-thin atmosphere: if you compare the globe to an apple, our protective Earth atmosphere is, in proportion, even thinner than the skin of the apple.",
+    "de": "Hauchdünne Atmosphäre: Vergleicht man den Globus mit einem Apfel, ist unsere schützende Erdatmosphäre im Verhältnis sogar noch dünner als die Schale des Apfels.",
+    "es": "Atmósfera finísima: si se compara el globo terráqueo con una manzana, nuestra protectora atmósfera terrestre es, en proporción, incluso más fina que la piel de la manzana.",
+    "fr": "Atmosphère ultrafine : si l'on compare le globe à une pomme, notre atmosphère terrestre protectrice est, proportionnellement, encore plus fine que la peau de la pomme.",
+    "pt": "Atmosfera finíssima: se compararmos o globo terrestre a uma maçã, nossa protetora atmosfera terrestre é, em proporção, ainda mais fina do que a casca da maçã.",
+    "it": "Atmosfera sottilissima: se si paragona il globo a una mela, la nostra protettiva atmosfera terrestre è, in proporzione, persino più sottile della buccia della mela."
+  },
+  {
+    "en": "Invisible giants: on the deep, open ocean a tsunami is often only a few centimeters high. Ships usually cross it completely unnoticed – only on the shallow coastal shelf does the wave tower up enormously.",
+    "de": "Unsichtbare Riesen: Ein Tsunami ist auf dem tiefen, offenen Ozean oft nur wenige Zentimeter hoch. Schiffe überqueren ihn meist völlig unbemerkt – erst am flachen Küstenschelf türmt sich die Welle gewaltig auf.",
+    "es": "Gigantes invisibles: en el océano profundo y abierto, un tsunami suele tener solo unos pocos centímetros de altura. Los barcos lo cruzan casi siempre sin notarlo en absoluto; solo en la plataforma costera poco profunda la ola se alza de forma colosal.",
+    "fr": "Géants invisibles : en haute mer, sur l'océan profond, un tsunami ne mesure souvent que quelques centimètres de haut. Les navires le traversent généralement sans s'en apercevoir – ce n'est que sur le plateau côtier peu profond que la vague se dresse de façon gigantesque.",
+    "pt": "Gigantes invisíveis: no oceano profundo e aberto, um tsunami muitas vezes tem apenas alguns centímetros de altura. Os navios o atravessam geralmente sem perceber – só na rasa plataforma costeira a onda se ergue de forma colossal.",
+    "it": "Giganti invisibili: nell'oceano profondo e aperto uno tsunami è spesso alto solo pochi centimetri. Le navi lo attraversano di solito senza accorgersene affatto – solo sulla bassa piattaforma costiera l'onda si innalza in modo imponente."
+  },
+  {
+    "en": "The supercontinent: about 250 million years ago, all of today's continents were joined together in a single, enormous landmass called \"Pangaea.\"",
+    "de": "Der Superkontinent: Vor etwa 250 Millionen Jahren hingen alle heutigen Kontinente in einer einzigen, riesigen Landmasse namens „Pangäa“ zusammen.",
+    "es": "El supercontinente: hace unos 250 millones de años, todos los continentes actuales estaban unidos en una única y enorme masa de tierra llamada \"Pangea\".",
+    "fr": "Le supercontinent : il y a environ 250 millions d'années, tous les continents actuels étaient réunis en une seule et immense masse continentale appelée « Pangée ».",
+    "pt": "O supercontinente: há cerca de 250 milhões de anos, todos os continentes atuais estavam unidos em uma única e enorme massa de terra chamada \"Pangeia\".",
+    "it": "Il supercontinente: circa 250 milioni di anni fa, tutti gli attuali continenti erano uniti in un'unica, enorme massa continentale chiamata «Pangea»."
+  },
+  {
+    "en": "Pole reversal: the Earth's magnetic field is not stable. Over the course of Earth's history, the magnetic North and South Poles repeatedly swap places – the last time this happened was about 780,000 years ago.",
+    "de": "Polumkehr: Das Magnetfeld der Erde ist nicht stabil. Im Laufe der Erdgeschichte tauschen der magnetische Nord- und Südpol immer wieder die Plätze – das letzte Mal passierte dies vor etwa 780.000 Jahren.",
+    "es": "Inversión de los polos: el campo magnético de la Tierra no es estable. A lo largo de la historia de la Tierra, los polos norte y sur magnéticos intercambian sus posiciones una y otra vez; la última vez ocurrió hace unos 780.000 años.",
+    "fr": "Inversion des pôles : le champ magnétique terrestre n'est pas stable. Au cours de l'histoire de la Terre, les pôles Nord et Sud magnétiques échangent régulièrement leur place – la dernière fois remonte à environ 780 000 ans.",
+    "pt": "Inversão dos polos: o campo magnético da Terra não é estável. Ao longo da história da Terra, os polos norte e sul magnéticos trocam de lugar repetidamente – a última vez que isso aconteceu foi há cerca de 780.000 anos.",
+    "it": "Inversione dei poli: il campo magnetico terrestre non è stabile. Nel corso della storia della Terra, i poli magnetici nord e sud si scambiano ripetutamente di posto – l'ultima volta è accaduto circa 780.000 anni fa."
+  },
+  {
+    "en": "The mega-tsunami: the highest tsunami ever documented was caused in 1958 by a massive landslide in Lituya Bay, Alaska. The wave reached an incredible height of over 520 meters.",
+    "de": "Der Mega-Tsunami: Der höchste jemals dokumentierte Tsunami entstand 1958 durch einen gewaltigen Erdrutsch in der Lituya Bay in Alaska. Die Welle erreichte eine unfassbare Höhe von über 520 Metern.",
+    "es": "El megatsunami: el tsunami más alto jamás documentado se originó en 1958 por un enorme desprendimiento de tierra en la bahía de Lituya, en Alaska. La ola alcanzó una altura increíble de más de 520 metros.",
+    "fr": "Le méga-tsunami : le tsunami le plus haut jamais documenté a été provoqué en 1958 par un gigantesque glissement de terrain dans la baie de Lituya, en Alaska. La vague a atteint une hauteur incroyable de plus de 520 mètres.",
+    "pt": "O megatsunami: o tsunami mais alto já documentado surgiu em 1958 devido a um enorme deslizamento de terra na baía de Lituya, no Alasca. A onda atingiu uma altura inacreditável de mais de 520 metros.",
+    "it": "Il mega-tsunami: lo tsunami più alto mai documentato si formò nel 1958 a causa di un'enorme frana nella baia di Lituya, in Alaska. L'onda raggiunse un'altezza incredibile di oltre 520 metri."
+  },
+  {
+    "en": "Longer days: because the Moon's tidal force very slowly slows down the Earth's rotation, our days get on average almost two milliseconds longer per century.",
+    "de": "Längere Tage: Da der Mond durch seine Gezeitenkraft die Erdrotation ganz langsam abbremst, werden unsere Tage im Durchschnitt pro Jahrhundert um knapp zwei Millisekunden länger.",
+    "es": "Días más largos: dado que la Luna, con su fuerza de marea, frena muy lentamente la rotación de la Tierra, nuestros días se alargan en promedio casi dos milisegundos por siglo.",
+    "fr": "Des jours plus longs : comme la Lune, par sa force de marée, ralentit très lentement la rotation de la Terre, nos jours s'allongent en moyenne de près de deux millisecondes par siècle.",
+    "pt": "Dias mais longos: como a Lua, com sua força de maré, freia muito lentamente a rotação da Terra, nossos dias ficam, em média, quase dois milissegundos mais longos por século.",
+    "it": "Giorni più lunghi: poiché la Luna, con la sua forza di marea, rallenta lentissimamente la rotazione terrestre, le nostre giornate si allungano in media di quasi due millisecondi per secolo."
+  },
+  {
+    "en": "Volcanic lightning: during particularly explosive volcanic eruptions, the ash particles in the eruption cloud rub against each other so intensely that gigantic, violet-flashing bolts of lightning form right inside the ash plume.",
+    "de": "Vulkanische Blitze: Bei besonders explosiven Vulkanausbrüchen reiben sich die Ascheteilchen in der Eruptionswolke so stark aneinander, dass gigantische, violett zuckende Blitze direkt im Aschepilz entstehen.",
+    "es": "Rayos volcánicos: en erupciones volcánicas especialmente explosivas, las partículas de ceniza de la nube de erupción se frotan entre sí con tanta fuerza que se generan rayos gigantescos de destellos violetas directamente dentro del hongo de ceniza.",
+    "fr": "Éclairs volcaniques : lors d'éruptions volcaniques particulièrement explosives, les particules de cendre dans le nuage d'éruption se frottent les unes aux autres si fortement que de gigantesques éclairs aux reflets violets se forment directement dans le panache de cendres.",
+    "pt": "Raios vulcânicos: em erupções vulcânicas especialmente explosivas, as partículas de cinza na nuvem de erupção se atritam com tanta força que raios gigantescos, com lampejos violeta, se formam diretamente dentro da coluna de cinzas.",
+    "it": "Fulmini vulcanici: durante eruzioni vulcaniche particolarmente esplosive, le particelle di cenere nella nube eruttiva si sfregano tra loro così intensamente che fulmini giganteschi, dai guizzi violacei, si formano direttamente all'interno del fungo di cenere."
+  },
+  {
+    "en": "The water planet: the Pacific Ocean is so gigantic that it covers more area than all the continents and landmasses of the Earth combined. If you turn the globe to \"Point Nemo,\" you look at almost nothing but water.",
+    "de": "Der Wasser-Planet: Der Pazifische Ozean ist so gigantisch, dass er mehr Fläche bedeckt als alle Kontinente und Landmassen der Erde zusammen. Dreht man den Globus auf den „Point Nemo“, blickt man fast ausschließlich auf Wasser.",
+    "es": "El planeta del agua: el Océano Pacífico es tan gigantesco que cubre más superficie que todos los continentes y masas de tierra de la Tierra juntos. Si se gira el globo hasta el \"Punto Nemo\", se contempla casi exclusivamente agua.",
+    "fr": "La planète de l'eau : l'océan Pacifique est si gigantesque qu'il couvre une surface plus grande que tous les continents et masses continentales de la Terre réunis. Si l'on tourne le globe vers le « Point Nemo », on ne voit presque que de l'eau.",
+    "pt": "O planeta da água: o Oceano Pacífico é tão gigantesco que cobre mais área do que todos os continentes e massas de terra da Terra juntos. Se girarmos o globo até o \"Ponto Nemo\", veremos quase exclusivamente água.",
+    "it": "Il pianeta dell'acqua: l'Oceano Pacifico è così gigantesco da coprire più superficie di tutti i continenti e le masse continentali della Terra messi insieme. Girando il mappamondo fino al «Punto Nemo», si vede quasi soltanto acqua."
+  },
+  {
+    "en": "Weighty clouds: an ordinary, fluffy-looking cumulus cloud on a summer day weighs, thanks to its countless tiny water droplets, about 500,000 kilograms on average – equivalent to the weight of around 100 elephants.",
+    "de": "Gewichtige Wolken: Eine ganz normale, flauschig aussehende Kumuluswolke an einem Sommertag wiegt durch ihre unzähligen feinen Wassertröpfchen im Schnitt etwa 500.000 Kilogramm – das entspricht dem Gewicht von rund 100 Elefanten.",
+    "es": "Nubes con peso: una nube cúmulo totalmente normal y de aspecto esponjoso en un día de verano pesa, por sus innumerables y finas gotitas de agua, unos 500.000 kilogramos de media, lo que equivale al peso de unos 100 elefantes.",
+    "fr": "Des nuages qui pèsent lourd : un nuage cumulus tout à fait ordinaire et d'apparence cotonneuse, par une journée d'été, pèse en moyenne, grâce à ses innombrables fines gouttelettes d'eau, environ 500 000 kilogrammes – soit le poids d'à peu près 100 éléphants.",
+    "pt": "Nuvens pesadas: uma nuvem cúmulo totalmente comum e de aspecto fofo em um dia de verão pesa, por causa de suas inúmeras gotículas finas de água, em média cerca de 500.000 quilos – o equivalente ao peso de aproximadamente 100 elefantes.",
+    "it": "Nuvole pesanti: una comunissima nuvola cumulo dall'aspetto soffice, in una giornata estiva, pesa in media, grazie alle sue innumerevoli minuscole goccioline d'acqua, circa 500.000 chilogrammi – pari al peso di circa 100 elefanti."
+  },
+  {
+    "en": "Mirror-image auroras: the northern lights (aurora borealis) and southern lights (aurora australis) almost always occur simultaneously and nearly as mirror images of each other at the Earth's two magnetic poles.",
+    "de": "Spiegelbildliche Polarlichter: Nordlichter (Aurora Borealis) und Südlichter (Aurora Australis) treten an den beiden magnetischen Polen der Erde fast immer gleichzeitig und nahezu spiegelbildlich auf.",
+    "es": "Auroras especulares: las luces del norte (aurora boreal) y las luces del sur (aurora austral) se producen en los dos polos magnéticos de la Tierra casi siempre de forma simultánea y prácticamente como imágenes especulares.",
+    "fr": "Aurores en miroir : les aurores boréales (aurora borealis) et les aurores australes (aurora australis) se produisent aux deux pôles magnétiques de la Terre presque toujours simultanément et de manière quasi symétrique, comme des images en miroir.",
+    "pt": "Auroras espelhadas: as luzes do norte (aurora boreal) e as luzes do sul (aurora austral) ocorrem nos dois polos magnéticos da Terra quase sempre simultaneamente e de forma quase espelhada.",
+    "it": "Aurore speculari: le luci del nord (aurora boreale) e le luci del sud (aurora australe) si verificano ai due poli magnetici della Terra quasi sempre contemporaneamente e in modo quasi speculare."
+  },
+  {
+    "en": "Uneven Earth crust: the Earth's solid shell is not equally thick everywhere. Beneath the oceans it is often only 5 to 10 kilometers thick, while beneath massive mountain ranges like the Himalayas it reaches down as far as 70 kilometers.",
+    "de": "Ungleiche Erdkruste: Die feste Schale der Erde ist nicht überall gleich dick. Unter den Ozeanen ist sie oft nur 5 bis 10 Kilometer stark, während sie unter massiven Gebirgen wie dem Himalaya bis zu 70 Kilometer in die Tiefe reicht.",
+    "es": "Corteza terrestre desigual: la capa sólida de la Tierra no tiene el mismo grosor en todas partes. Bajo los océanos suele tener solo de 5 a 10 kilómetros de espesor, mientras que bajo macizos montañosos como el Himalaya llega hasta 70 kilómetros de profundidad.",
+    "fr": "Croûte terrestre inégale : l'enveloppe solide de la Terre n'a pas la même épaisseur partout. Sous les océans, elle ne fait souvent que 5 à 10 kilomètres d'épaisseur, alors que sous des massifs montagneux comme l'Himalaya elle descend jusqu'à 70 kilomètres de profondeur.",
+    "pt": "Crosta terrestre desigual: a camada sólida da Terra não tem a mesma espessura em toda parte. Sob os oceanos, muitas vezes tem apenas 5 a 10 quilômetros de espessura, enquanto sob maciços montanhosos como o Himalaia chega a até 70 quilômetros de profundidade.",
+    "it": "Crosta terrestre disomogenea: l'involucro solido della Terra non ha lo stesso spessore ovunque. Sotto gli oceani è spesso di soli 5-10 chilometri, mentre sotto imponenti catene montuose come l'Himalaya arriva fino a 70 chilometri di profondità."
+  },
+  {
+    "en": "The equator boundary: a tropical storm never crosses the equator. Because the driving Coriolis effect is exactly zero right at the equator, storms there have no rotational force.",
+    "de": "Die Äquator-Grenze: Ein tropischer Wirbelsturm überquert niemals den Äquator. Da der antreibende Corioliseffekt direkt am Äquator gleich null ist, haben Stürme dort keine Rotationskraft.",
+    "es": "La frontera del ecuador: una tormenta tropical nunca cruza el ecuador. Como el efecto Coriolis que la impulsa es igual a cero justo en el ecuador, allí las tormentas no tienen fuerza de rotación.",
+    "fr": "La frontière de l'équateur : une tempête tropicale ne franchit jamais l'équateur. Comme l'effet Coriolis qui l'entraîne est exactement nul juste à l'équateur, les tempêtes n'y ont aucune force de rotation.",
+    "pt": "A fronteira do equador: uma tempestade tropical nunca cruza o equador. Como o efeito Coriolis que a impulsiona é igual a zero exatamente no equador, ali as tempestades não têm força de rotação.",
+    "it": "Il confine dell'equatore: una tempesta tropicale non attraversa mai l'equatore. Poiché l'effetto Coriolis che la alimenta è esattamente pari a zero proprio all'equatore, lì le tempeste non hanno forza di rotazione."
+  },
+  {
+    "en": "Outdated Richter scale: among researchers, the famous Richter scale has long been considered obsolete. Modern seismologists now use the \"moment magnitude scale\" (Mw), because it represents the energy released by large quakes far more accurately.",
+    "de": "Veraltete Richter-Skala: Die berühmte Richter-Skala gilt unter Forschern längst als überholt. Moderne Seismologen nutzen heute die „Momenten-Magnituden-Skala“ (Mw), da sie die freigesetzte Energie großer Beben viel genauer abbildet.",
+    "es": "Escala de Richter obsoleta: entre los investigadores, la famosa escala de Richter se considera desde hace tiempo anticuada. Los sismólogos modernos utilizan hoy la \"escala de magnitud de momento\" (Mw), ya que representa con mucha mayor precisión la energía liberada por los grandes sismos.",
+    "fr": "Échelle de Richter dépassée : parmi les chercheurs, la célèbre échelle de Richter est depuis longtemps considérée comme obsolète. Les sismologues modernes utilisent aujourd'hui l'« échelle de magnitude de moment » (Mw), car elle rend compte bien plus précisément de l'énergie libérée par les grands séismes.",
+    "pt": "Escala Richter ultrapassada: entre os pesquisadores, a famosa escala Richter é há muito considerada obsoleta. Os sismólogos modernos usam hoje a \"escala de magnitude de momento\" (Mw), pois ela representa com muito mais precisão a energia liberada por grandes terremotos.",
+    "it": "Scala Richter superata: tra i ricercatori, la celebre scala Richter è da tempo considerata superata. I sismologi moderni utilizzano oggi la «scala di magnitudo del momento» (Mw), poiché rappresenta in modo molto più preciso l'energia liberata dai grandi terremoti."
+  },
+  {
+    "en": "The terminator: the sharp boundary between the bright day side and the dark night side of the Earth is called the \"terminator\" in astronomy. On the ISS you see this fascinating line sweep across the globe 16 times a day.",
+    "de": "Der Terminator: Die scharfe Grenze zwischen der hellen Tagseite und der dunklen Nachtseite der Erde wird in der Astronomie als „Terminator“ bezeichnet. Auf der ISS sieht man diese faszinierende Linie 16-mal am Tag über den Globus ziehen.",
+    "es": "El terminador: la nítida frontera entre el lado diurno iluminado y el lado nocturno oscuro de la Tierra se denomina en astronomía \"terminador\". En la ISS se ve esta fascinante línea recorrer el globo 16 veces al día.",
+    "fr": "Le terminateur : la frontière nette entre la face diurne éclairée et la face nocturne sombre de la Terre est appelée « terminateur » en astronomie. Depuis l'ISS, on voit cette ligne fascinante balayer le globe 16 fois par jour.",
+    "pt": "O terminador: a nítida fronteira entre o lado diurno iluminado e o lado noturno escuro da Terra é chamada, na astronomia, de \"terminador\". Na ISS, vê-se essa fascinante linha percorrer o globo 16 vezes por dia.",
+    "it": "Il terminatore: il netto confine tra il lato diurno illuminato e il lato notturno buio della Terra è chiamato in astronomia «terminatore». Dalla ISS si vede questa affascinante linea attraversare il globo 16 volte al giorno."
+  },
+  {
+    "en": "Tornado hotspot: although tornadoes occur on all continents (except Antarctica), about 75% of all the world's twisters of this kind rage in the USA, especially in the notorious \"Tornado Alley.\"",
+    "de": "Tornado-Hotspot: Obwohl es Tornados auf allen Kontinenten (außer der Antarktis) gibt, wüten etwa 75 % aller weltweiten Wirbelstürme dieser Art in den USA, speziell in der berüchtigten „Tornado Alley“.",
+    "es": "Foco de tornados: aunque hay tornados en todos los continentes (excepto la Antártida), alrededor del 75 % de todos los torbellinos de este tipo en el mundo se desatan en EE. UU., especialmente en el tristemente célebre \"Tornado Alley\".",
+    "fr": "Foyer de tornades : bien qu'il y ait des tornades sur tous les continents (sauf l'Antarctique), environ 75 % de toutes les tornades de ce type dans le monde se déchaînent aux États-Unis, en particulier dans la tristement célèbre « Tornado Alley ».",
+    "pt": "Foco de tornados: embora haja tornados em todos os continentes (exceto a Antártida), cerca de 75% de todos os tornados desse tipo no mundo ocorrem nos EUA, especialmente no tristemente famoso \"Tornado Alley\".",
+    "it": "Epicentro dei tornado: sebbene i tornado si verifichino in tutti i continenti (tranne l'Antartide), circa il 75% di tutti i tornado di questo tipo nel mondo si scatena negli USA, in particolare nella famigerata «Tornado Alley»."
+  },
+  {
+    "en": "Sloshing lakes: strong earthquakes can make the water in swimming pools, fjords or lakes slosh over even thousands of kilometers away. This geological phenomenon is called a \"seiche.\"",
+    "de": "Schwappende Seen: Starke Erdbeben können das Wasser in Schwimmbecken, Fjorden oder Seen noch in tausenden Kilometern Entfernung zum Überschwappen bringen. Dieses geologische Phänomen nennt man „Seiche“.",
+    "es": "Lagos que se desbordan: los terremotos fuertes pueden hacer que el agua de piscinas, fiordos o lagos se desborde incluso a miles de kilómetros de distancia. Este fenómeno geológico se denomina \"seiche\".",
+    "fr": "Lacs qui clapotent : de forts séismes peuvent faire déborder l'eau des piscines, des fjords ou des lacs même à des milliers de kilomètres de distance. Ce phénomène géologique est appelé « seiche ».",
+    "pt": "Lagos que transbordam: terremotos fortes podem fazer a água de piscinas, fiordes ou lagos transbordar mesmo a milhares de quilômetros de distância. Esse fenômeno geológico é chamado de \"seiche\".",
+    "it": "Laghi che si agitano: forti terremoti possono far traboccare l'acqua di piscine, fiordi o laghi anche a migliaia di chilometri di distanza. Questo fenomeno geologico è chiamato «seiche»."
+  },
+  {
+    "en": "The Ring of Fire and volcanoes: when an oceanic tectonic plate dives beneath a continental plate, not only do extremely deep earthquakes occur there, but the molten rock also pushes up to the surface as a chain of volcanoes.",
+    "de": "Der Feuerring und Vulkane: Wenn eine ozeanische Erdplatte unter eine kontinentale Platte abtaucht, entstehen dort nicht nur extrem tiefe Erdbeben, sondern das geschmolzene Gestein drückt sich auch als Vulkankette an die Oberfläche.",
+    "es": "El Cinturón de Fuego y los volcanes: cuando una placa oceánica se hunde bajo una placa continental, allí no solo se producen terremotos extremadamente profundos, sino que la roca fundida también asciende a la superficie formando una cadena de volcanes.",
+    "fr": "La Ceinture de feu et les volcans : lorsqu'une plaque océanique plonge sous une plaque continentale, il s'y produit non seulement des séismes extrêmement profonds, mais la roche en fusion remonte aussi à la surface sous la forme d'une chaîne de volcans.",
+    "pt": "O Círculo de Fogo e os vulcões: quando uma placa oceânica mergulha sob uma placa continental, ali não surgem apenas terremotos extremamente profundos, mas a rocha derretida também se projeta para a superfície como uma cadeia de vulcões.",
+    "it": "L'Anello di fuoco e i vulcani: quando una placca oceanica si immerge sotto una placca continentale, lì non si generano solo terremoti estremamente profondi, ma la roccia fusa risale anche in superficie formando una catena di vulcani."
+  },
+  {
+    "en": "Hailstone growth rings: large hailstones can grow as big as grapefruits. If you cut them open, they often show rings inside like a tree trunk – these reveal how many times the ice grain was whirled up and down in the storm cloud.",
+    "de": "Hagel-Jahresringe: Große Hagelkörner können so groß wie Grapefruits werden. Schneidet man sie auf, zeigen sie im Inneren oft Ringe wie bei einem Baumstamm – diese verraten, wie oft das Eiskorn in der Gewitterwolke auf- und abgewirbelt wurde.",
+    "es": "Anillos de crecimiento del granizo: los granizos grandes pueden llegar a ser tan grandes como pomelos. Si se cortan, suelen mostrar en su interior anillos como los de un tronco de árbol, que revelan cuántas veces el grano de hielo fue arrastrado hacia arriba y hacia abajo en la nube de tormenta.",
+    "fr": "Anneaux de croissance de la grêle : les gros grêlons peuvent atteindre la taille de pamplemousses. Si on les coupe, ils montrent souvent à l'intérieur des anneaux comme un tronc d'arbre – qui révèlent combien de fois le grain de glace a été ballotté de haut en bas dans le nuage d'orage.",
+    "pt": "Anéis de crescimento do granizo: granizos grandes podem ficar do tamanho de toranjas. Se cortados, muitas vezes mostram em seu interior anéis como os de um tronco de árvore – que revelam quantas vezes o grão de gelo foi arrastado para cima e para baixo na nuvem de tempestade.",
+    "it": "Anelli di crescita della grandine: i grossi chicchi di grandine possono diventare grandi come pompelmi. Tagliandoli, mostrano spesso all'interno anelli come quelli di un tronco d'albero – che rivelano quante volte il chicco di ghiaccio è stato sballottato su e giù nella nube temporalesca."
+  },
+  {
+    "en": "The gigantic heater: the mighty Gulf Stream in the Atlantic transports about 100 times more water than all the rivers on Earth combined and, through its distribution of heat, acts as a gigantic heater for large parts of Europe.",
+    "de": "Die gigantische Heizung: Der mächtige Golfstrom im Atlantik transportiert etwa 100-mal mehr Wasser als alle Flüsse der Erde zusammen und fungiert durch seine Wärmeverteilung als gigantische Heizung für weite Teile Europas.",
+    "es": "La calefacción gigantesca: la poderosa corriente del Golfo en el Atlántico transporta unas 100 veces más agua que todos los ríos de la Tierra juntos y, gracias a su distribución del calor, actúa como una calefacción gigantesca para amplias partes de Europa.",
+    "fr": "Le chauffage géant : le puissant Gulf Stream dans l'Atlantique transporte environ 100 fois plus d'eau que tous les fleuves de la Terre réunis et, par sa répartition de la chaleur, agit comme un chauffage gigantesque pour de vastes régions d'Europe.",
+    "pt": "O aquecedor gigantesco: a poderosa Corrente do Golfo no Atlântico transporta cerca de 100 vezes mais água do que todos os rios da Terra juntos e, por sua distribuição de calor, funciona como um aquecedor gigantesco para grandes partes da Europa.",
+    "it": "Il riscaldamento gigantesco: la possente Corrente del Golfo nell'Atlantico trasporta circa 100 volte più acqua di tutti i fiumi della Terra messi insieme e, grazie alla sua distribuzione del calore, funge da gigantesco riscaldamento per ampie zone d'Europa."
+  },
+  {
+    "en": "The Kola borehole: the deepest hole ever dug by humans, the Kola Superdeep Borehole in Russia, reaches a good 12 kilometers into the Earth's crust. If the Earth were an apple, we wouldn't even have fully pierced the skin with it.",
+    "de": "Die Kola-Bohrung: Das tiefste von Menschen gegrabene Loch, die Kola-Bohrung in Russland, reicht gut 12 Kilometer in die Erdkruste. Wenn die Erde ein Apfel wäre, hätten wir damit nicht einmal die Schale vollständig durchdrungen.",
+    "es": "La perforación de Kola: el agujero más profundo jamás excavado por el ser humano, la perforación de Kola en Rusia, alcanza unos buenos 12 kilómetros en la corteza terrestre. Si la Tierra fuera una manzana, con él ni siquiera habríamos atravesado por completo la piel.",
+    "fr": "Le forage de Kola : le trou le plus profond jamais creusé par l'homme, le forage de Kola en Russie, atteint un bon 12 kilomètres dans la croûte terrestre. Si la Terre était une pomme, nous n'aurions même pas entièrement traversé la peau avec lui.",
+    "pt": "A perfuração de Kola: o buraco mais profundo já cavado pelo ser humano, a perfuração de Kola na Rússia, alcança uns bons 12 quilômetros na crosta terrestre. Se a Terra fosse uma maçã, com ele não teríamos sequer atravessado completamente a casca.",
+    "it": "La perforazione di Kola: il foro più profondo mai scavato dall'uomo, la perforazione di Kola in Russia, raggiunge ben 12 chilometri nella crosta terrestre. Se la Terra fosse una mela, con esso non avremmo nemmeno attraversato completamente la buccia."
+  },
+  {
+    "en": "Invisible swarm: when you look at a digital globe, near-Earth space seems very empty. In reality, over 8,000 active satellites and millions of tiny pieces of space debris are currently circling our planet in a dense net.",
+    "de": "Unsichtbarer Schwarm: Wenn du auf einen digitalen Globus schaust, wirkt der erdnahe Weltraum sehr leer. In der Realität kreisen derzeit über 8.000 aktive Satelliten und Millionen winzige Teile Weltraumschrott in einem dichten Netz um unseren Planeten.",
+    "es": "Enjambre invisible: cuando miras un globo terráqueo digital, el espacio cercano a la Tierra parece muy vacío. En realidad, actualmente orbitan nuestro planeta más de 8.000 satélites activos y millones de diminutos fragmentos de basura espacial en una densa red.",
+    "fr": "Essaim invisible : lorsque tu regardes un globe numérique, l'espace proche de la Terre paraît très vide. En réalité, plus de 8 000 satellites actifs et des millions de minuscules débris spatiaux gravitent actuellement autour de notre planète en un réseau dense.",
+    "pt": "Enxame invisível: quando você olha para um globo digital, o espaço próximo à Terra parece muito vazio. Na realidade, atualmente orbitam o nosso planeta mais de 8.000 satélites ativos e milhões de minúsculos pedaços de lixo espacial em uma densa rede.",
+    "it": "Sciame invisibile: quando guardi un mappamondo digitale, lo spazio vicino alla Terra sembra molto vuoto. In realtà, attualmente orbitano attorno al nostro pianeta oltre 8.000 satelliti attivi e milioni di minuscoli frammenti di detriti spaziali in una fitta rete."
+  },
+  {
+    "en": "Weather from space: \"space weather\" is a real danger. Extreme solar storms can hurl so much electromagnetic energy toward Earth that global GPS signals are disrupted here or even power grids fail.",
+    "de": "Wetter aus dem All: „Weltraumwetter“ ist eine reale Gefahr. Extreme Sonnenstürme können so viel elektromagnetische Energie zur Erde schleudern, dass hier globale GPS-Signale gestört werden oder sogar Stromnetze ausfallen können.",
+    "es": "Clima del espacio: el \"clima espacial\" es un peligro real. Las tormentas solares extremas pueden lanzar hacia la Tierra tanta energía electromagnética que aquí se perturban las señales globales de GPS o incluso pueden caerse las redes eléctricas.",
+    "fr": "La météo de l'espace : la « météo spatiale » est un danger réel. Des tempêtes solaires extrêmes peuvent projeter vers la Terre tant d'énergie électromagnétique que les signaux GPS mondiaux y sont perturbés, voire que des réseaux électriques tombent en panne.",
+    "pt": "Clima do espaço: o \"clima espacial\" é um perigo real. Tempestades solares extremas podem lançar tanta energia eletromagnética em direção à Terra que aqui os sinais globais de GPS são perturbados ou até mesmo as redes elétricas podem falhar.",
+    "it": "Il meteo dallo spazio: il «meteo spaziale» è un pericolo reale. Tempeste solari estreme possono scagliare verso la Terra così tanta energia elettromagnetica da disturbare qui i segnali GPS globali o persino far collassare le reti elettriche."
+  },
+  {
+    "en": "Colors of the auroras: the color of an aurora reveals the altitude at which it forms. Green light is produced by oxygen at around 100 kilometers up, while violet or blue light is generated by nitrogen at considerably lower altitudes.",
+    "de": "Farben der Polarlichter: Die Farbe eines Polarlichts verrät seine Entstehungshöhe. Grünes Licht entsteht durch Sauerstoff in rund 100 Kilometern Höhe, während violettes oder blaues Licht von Stickstoff in deutlich geringeren Höhen erzeugt wird.",
+    "es": "Colores de las auroras: el color de una aurora revela la altura a la que se forma. La luz verde se origina por el oxígeno a unos 100 kilómetros de altura, mientras que la luz violeta o azul es generada por el nitrógeno a alturas considerablemente menores.",
+    "fr": "Couleurs des aurores : la couleur d'une aurore révèle l'altitude à laquelle elle se forme. La lumière verte est produite par l'oxygène à environ 100 kilomètres d'altitude, tandis que la lumière violette ou bleue est générée par l'azote à des altitudes nettement plus basses.",
+    "pt": "Cores das auroras: a cor de uma aurora revela a altura em que ela se forma. A luz verde surge pelo oxigênio a cerca de 100 quilômetros de altura, enquanto a luz violeta ou azul é gerada pelo nitrogênio em alturas consideravelmente menores.",
+    "it": "Colori delle aurore: il colore di un'aurora rivela l'altitudine a cui si forma. La luce verde è prodotta dall'ossigeno a circa 100 chilometri di quota, mentre la luce violetta o blu è generata dall'azoto ad altitudini decisamente inferiori."
+  },
+  {
+    "en": "Dry as Mars: the driest non-polar place on Earth is the Atacama Desert. In some regions there, no rain has ever been measured since records began – the landscape is so extreme that NASA tests its Mars rovers there.",
+    "de": "Trocken wie der Mars: Der trockenste nicht-polare Ort der Erde ist die Atacama-Wüste. In einigen Regionen dort wurde seit Beginn der Aufzeichnungen noch nie Regen gemessen – die Landschaft ist so extrem, dass die NASA dort ihre Mars-Rover testet.",
+    "es": "Seco como Marte: el lugar no polar más seco de la Tierra es el desierto de Atacama. En algunas regiones de allí no se ha medido jamás lluvia desde que existen registros; el paisaje es tan extremo que la NASA prueba allí sus róveres de Marte.",
+    "fr": "Sec comme Mars : l'endroit non polaire le plus sec de la Terre est le désert d'Atacama. Dans certaines régions, aucune pluie n'y a jamais été mesurée depuis le début des relevés – le paysage est si extrême que la NASA y teste ses rovers martiens.",
+    "pt": "Seco como Marte: o lugar não polar mais seco da Terra é o deserto do Atacama. Em algumas regiões de lá nunca se mediu chuva desde o início dos registros – a paisagem é tão extrema que a NASA testa ali seus rovers de Marte.",
+    "it": "Secco come Marte: il luogo non polare più arido della Terra è il deserto di Atacama. In alcune regioni lì non è mai stata misurata pioggia da quando esistono le registrazioni – il paesaggio è così estremo che la NASA vi collauda i suoi rover marziani."
+  },
+  {
+    "en": "The jet stream: high up in the atmosphere blow so-called jet streams. These extremely strong, invisible bands of wind reach speeds of over 500 km/h and are deliberately used by airplanes to save time and fuel.",
+    "de": "Der Jetstream: Hoch oben in der Atmosphäre wehen sogenannte Jetstreams. Diese extrem starken, unsichtbaren Windbänder erreichen Geschwindigkeiten von über 500 km/h und werden von Flugzeugen gezielt genutzt, um Zeit und Treibstoff zu sparen.",
+    "es": "La corriente en chorro: en lo alto de la atmósfera soplan las llamadas corrientes en chorro (jet streams). Estas bandas de viento invisibles y extremadamente fuertes alcanzan velocidades de más de 500 km/h y son aprovechadas de forma deliberada por los aviones para ahorrar tiempo y combustible.",
+    "fr": "Le jet-stream : tout en haut de l'atmosphère soufflent ce qu'on appelle des jet-streams. Ces bandes de vent invisibles et extrêmement puissantes atteignent des vitesses de plus de 500 km/h et sont utilisées de manière ciblée par les avions pour gagner du temps et économiser du carburant.",
+    "pt": "A corrente de jato: no alto da atmosfera sopram as chamadas correntes de jato (jet streams). Essas faixas de vento invisíveis e extremamente fortes atingem velocidades de mais de 500 km/h e são aproveitadas de forma intencional pelos aviões para economizar tempo e combustível.",
+    "it": "La corrente a getto: in cima all'atmosfera soffiano le cosiddette correnti a getto (jet stream). Queste fasce di vento invisibili ed estremamente forti raggiungono velocità superiori a 500 km/h e vengono sfruttate intenzionalmente dagli aerei per risparmiare tempo e carburante."
+  },
+  {
+    "en": "Glowing night clouds: the highest clouds on Earth form at an altitude of about 80 kilometers. They consist of ice crystals and shine silvery-blue because they are lit by the Sun when it is already long dark on the ground.",
+    "de": "Leuchtende Nachtwolken: Die höchsten Wolken der Erde bilden sich in etwa 80 Kilometern Höhe. Sie bestehen aus Eiskristallen und leuchten silbrig-blau, weil sie von der Sonne angestrahlt werden, wenn es am Boden schon längst dunkel ist.",
+    "es": "Nubes nocturnas luminosas: las nubes más altas de la Tierra se forman a unos 80 kilómetros de altura. Están compuestas de cristales de hielo y brillan con un tono azul plateado porque las ilumina el Sol cuando en el suelo ya hace mucho que es de noche.",
+    "fr": "Nuages nocturnes lumineux : les nuages les plus hauts de la Terre se forment à environ 80 kilomètres d'altitude. Ils sont constitués de cristaux de glace et brillent d'un bleu argenté parce qu'ils sont éclairés par le Soleil alors qu'il fait déjà nuit depuis longtemps au sol.",
+    "pt": "Nuvens noturnas luminosas: as nuvens mais altas da Terra se formam a cerca de 80 quilômetros de altura. São compostas de cristais de gelo e brilham em um tom azul prateado porque são iluminadas pelo Sol quando no solo já é noite há muito tempo.",
+    "it": "Nubi notturne luminose: le nubi più alte della Terra si formano a circa 80 chilometri di quota. Sono composte da cristalli di ghiaccio e brillano di un blu argenteo perché vengono illuminate dal Sole quando al suolo è ormai buio da tempo."
+  },
+  {
+    "en": "Ancient water: the water on our Earth is part of a closed cycle billions of years old. Every drop of rain that falls today has, over the course of Earth's history, already been evaporated and rained down countless times.",
+    "de": "Uraltes Wasser: Das Wasser auf unserer Erde befindet sich in einem Milliarden Jahre alten, geschlossenen Kreislauf. Jeder Tropfen Regen, der heute fällt, wurde in der Erdgeschichte schon unzählige Male verdampft und wieder abgeregnet.",
+    "es": "Agua milenaria: el agua de nuestra Tierra se encuentra en un ciclo cerrado de miles de millones de años. Cada gota de lluvia que cae hoy ya se ha evaporado y vuelto a precipitar innumerables veces a lo largo de la historia de la Tierra.",
+    "fr": "Eau immémoriale : l'eau de notre Terre se trouve dans un cycle fermé vieux de plusieurs milliards d'années. Chaque goutte de pluie qui tombe aujourd'hui s'est déjà évaporée et est retombée d'innombrables fois au cours de l'histoire de la Terre.",
+    "pt": "Água milenar: a água da nossa Terra encontra-se em um ciclo fechado com bilhões de anos. Cada gota de chuva que cai hoje já se evaporou e voltou a precipitar inúmeras vezes ao longo da história da Terra.",
+    "it": "Acqua antichissima: l'acqua sulla nostra Terra si trova in un ciclo chiuso vecchio di miliardi di anni. Ogni goccia di pioggia che cade oggi è già evaporata e ricaduta innumerevoli volte nel corso della storia della Terra."
+  },
+  {
+    "en": "Pressure in the deep sea: at the deepest point of the oceans there is an enormous water pressure, about 1,000 times higher than at the surface. That corresponds to the weight of a small car bearing down on an area the size of a thumbnail.",
+    "de": "Druck in der Tiefsee: Am tiefsten Punkt der Ozeane herrscht ein gewaltiger Wasserdruck, der etwa 1.000-mal höher ist als an der Oberfläche. Das entspricht dem Gewicht eines Kleinwagens, der auf einer Fläche von der Größe eines Daumennagels lastet.",
+    "es": "Presión en las profundidades marinas: en el punto más profundo de los océanos reina una enorme presión del agua, unas 1.000 veces mayor que en la superficie. Eso equivale al peso de un coche pequeño que recae sobre una superficie del tamaño de una uña del pulgar.",
+    "fr": "Pression dans les abysses : au point le plus profond des océans règne une pression de l'eau colossale, environ 1 000 fois supérieure à celle de la surface. Cela correspond au poids d'une petite voiture reposant sur une surface de la taille d'un ongle de pouce.",
+    "pt": "Pressão nas profundezas do mar: no ponto mais profundo dos oceanos reina uma enorme pressão da água, cerca de 1.000 vezes maior do que na superfície. Isso equivale ao peso de um carro pequeno apoiado sobre uma área do tamanho de uma unha do polegar.",
+    "it": "Pressione negli abissi: nel punto più profondo degli oceani regna un'enorme pressione dell'acqua, circa 1.000 volte superiore a quella in superficie. Ciò equivale al peso di una piccola auto che grava su una superficie grande quanto l'unghia di un pollice."
+  },
+  {
+    "en": "Earthshine: when the Moon stands as a thin crescent in the sky, its dark part often shimmers faintly too. This phenomenon is called \"earthshine\" – it is sunlight reflected from the bright surface of the Earth onto the Moon, as if from a mirror.",
+    "de": "Der Erdschein: Wenn der Mond als schmale Sichel am Himmel steht, schimmert oft auch sein dunkler Teil leicht. Dieses Phänomen nennt man „Erdschein“ – es ist das Sonnenlicht, das von der hellen Erdoberfläche wie von einem Spiegel auf den Mond geworfen wird.",
+    "es": "La luz cenicienta: cuando la Luna aparece como una fina hoz en el cielo, a menudo su parte oscura también brilla levemente. Este fenómeno se denomina \"luz cenicienta\": es la luz del Sol que se refleja desde la brillante superficie de la Tierra hacia la Luna, como desde un espejo.",
+    "fr": "La lumière cendrée : lorsque la Lune se présente sous la forme d'un fin croissant dans le ciel, sa partie sombre scintille souvent légèrement elle aussi. Ce phénomène s'appelle la « lumière cendrée » – c'est la lumière du Soleil renvoyée sur la Lune par la surface brillante de la Terre, comme par un miroir.",
+    "pt": "A luz cinérea: quando a Lua aparece como uma fina foice no céu, muitas vezes a sua parte escura também brilha levemente. Esse fenômeno é chamado de \"luz cinérea\" – é a luz do Sol que, refletida pela brilhante superfície da Terra, é lançada sobre a Lua como por um espelho.",
+    "it": "La luce cinerea: quando la Luna appare come una sottile falce nel cielo, spesso anche la sua parte buia luccica leggermente. Questo fenomeno è chiamato «luce cinerea» – è la luce del Sole che, riflessa dalla luminosa superficie terrestre come da uno specchio, viene proiettata sulla Luna."
   }
 ]
