@@ -1,5 +1,6 @@
-{
-  "iss": {
+[
+  {
+    "categoryId": "iss",
     "de": "Welche aktuellen News, Ereignisse, aktuelle Bilder, Videos gibt es zu: ISS",
     "en": "What latest news, events, current pictures, and videos are available for: ISS",
     "fr": "Quelles sont les dernières actualités, événements, images récentes et vidéos concernant : ISS",
@@ -7,7 +8,8 @@
     "pt": "Quais são as últimas notícias, eventos, imagens atuais e vídeos sobre: ISS",
     "it": "Quali sono le ultime novità, eventi, immagini recenti e video riguardanti: ISS"
   },
-  "earthquake": {
+  {
+    "categoryId": "earthquake",
     "de": "Welche aktuellen News, Ereignisse, aktuelle Bilder, Videos gibt es zu: Erdbeben",
     "en": "What latest news, events, current pictures, and videos are available for: Earthquakes",
     "fr": "Quelles sont les dernières actualités, événements, images récentes et vidéos concernant : Tremblements de terre",
@@ -15,7 +17,8 @@
     "pt": "Quais são as últimas notícias, eventos, imagens atuais e vídeos sobre: Terremotos",
     "it": "Quali sono le ultime novità, eventi, immagini recenti e video riguardanti: Terremoti"
   },
-  "volcano": {
+  {
+    "categoryId": "volcano",
     "de": "Welche aktuellen News, Ereignisse, aktuelle Bilder, Videos gibt es zu: Vulkanen",
     "en": "What latest news, events, current pictures, and videos are available for: Volcanoes",
     "fr": "Quelles sont les dernières actualités, événements, images récentes et vidéos concernant : Volcans",
@@ -23,7 +26,8 @@
     "pt": "Quais são as últimas notícias, eventos, imagens atuais e vídeos sobre: Vulcões",
     "it": "Quali sono le ultime novità, eventi, immagini recenti e video riguardanti: Vulcani"
   },
-  "storm": {
+  {
+    "categoryId": "storm",
     "de": "Welche aktuellen News, Ereignisse, aktuelle Bilder, Videos gibt es zu: Stürmen",
     "en": "What latest news, events, current pictures, and videos are available for: Storms",
     "fr": "Quelles sont les dernières actualités, événements, images récentes et vidéos concernant : Tempêtes",
@@ -31,4 +35,4 @@
     "pt": "Quais são as últimas notícias, eventos, imagens atuais e vídeos sobre: Tempestades",
     "it": "Quali sono le ultime novità, eventi, immagini recenti e video riguardanti: Tempeste"
   }
-}
+]
