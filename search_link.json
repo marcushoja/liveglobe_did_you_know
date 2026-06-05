@@ -2,41 +2,51 @@
   {
     "category": "iss",
     "requiresCurrentDate": true,
-    "de": "Welche aktuellen News, Ereignisse, aktuelle Bilder, Videos gibt es zu: ISS",
-    "en": "What latest news, events, current pictures, and videos are available for: ISS",
-    "fr": "Quelles sont les dernières actualités, événements, images récentes et vidéos concernant : ISS",
-    "es": "Cuáles son las últimas noticias, eventos, imágenes actuales y videos sobre: ISS",
-    "pt": "Quais são as últimas notícias, eventos, imagens atuais e vídeos sobre: ISS",
-    "it": "Quali sono le ultime novità, eventi, immagini recenti e video riguardanti: ISS"
+    "de": "Welche aktuellen News, Ereignisse, aktuelle Bilder, Videos gibt es zur ISS: ",
+    "en": "What latest news, events, current pictures, and videos are available for the ISS: ",
+    "fr": "Quelles sont les dernières actualités, événements, images récentes et vidéos concernant l'ISS: ",
+    "es": "Cuáles son las últimas noticias, eventos, imágenes actuales y videos sobre la ISS: ",
+    "pt": "Quais são as últimas notícias, eventos, imagens atuais e vídeos sobre a ISS: ",
+    "it": "Quali sono le ultime novità, eventi, immagini recenti e video riguardanti l'ISS: "
+  },
+  {
+    "category": "capital",
+    "requiresCurrentDate": true,
+    "de": "Welche aktuellen News, Ereignisse, aktuelle Bilder, Videos gibt es zur Stadt: ",
+    "en": "What latest news, events, current pictures, and videos are available for the city: ",
+    "fr": "Quelles sont les dernières actualités, événements, images récentes et vidéos concernant la ville: ",
+    "es": "Cuáles son las últimas noticias, eventos, imágenes actuales y videos sobre la ciudad: ",
+    "pt": "Quais são as últimas notícias, eventos, imagens atuais e vídeos sobre a cidade: ",
+    "it": "Quali sono le ultime novità, eventi, immagini recenti e video riguardanti la città: "
   },
   {
     "category": "earthquake",
     "requiresCurrentDate": false,
-    "de": "Welche aktuellen News, Ereignisse, aktuelle Bilder, Videos gibt es zu: Erdbeben",
-    "en": "What latest news, events, current pictures, and videos are available for: Earthquakes",
-    "fr": "Quelles sont les dernières actualités, événements, images récentes et vidéos concernant : Tremblements de terre",
-    "es": "Cuáles son las últimas noticias, eventos, imágenes actuales y videos sobre: Terremotos",
-    "pt": "Quais são as últimas notícias, eventos, imagens atuais e vídeos sobre: Terremotos",
-    "it": "Quali sono le ultime novità, eventi, immagini recenti e video riguardanti: Terremoti"
+    "de": "Welche aktuellen News, Ereignisse, aktuelle Bilder, Videos gibt es zum Erdbeben: ",
+    "en": "What latest news, events, current pictures, and videos are available for the earthquake: ",
+    "fr": "Quelles sont les dernières actualités, événements, images récentes et vidéos concernant le tremblement de terre: ",
+    "es": "Cuáles son las últimas noticias, eventos, imágenes actuales y videos sobre el terremoto: ",
+    "pt": "Quais são as últimas notícias, eventos, imagens atuais e vídeos sobre o terremoto: ",
+    "it": "Quali sono le ultime novità, eventi, immagini recenti e video riguardanti il terremoto: "
   },
   {
     "category": "volcano",
     "requiresCurrentDate": false,
-    "de": "Welche aktuellen News, Ereignisse, aktuelle Bilder, Videos gibt es zu: Vulkanen",
-    "en": "What latest news, events, current pictures, and videos are available for: Volcanoes",
-    "fr": "Quelles sont les dernières actualités, événements, images récentes et vidéos concernant : Volcans",
-    "es": "Cuáles son las últimas noticias, eventos, imágenes actuales y videos sobre: Volcanes",
-    "pt": "Quais são as últimas notícias, eventos, imagens atuais e vídeos sobre: Vulcões",
-    "it": "Quali sono le ultime novità, eventi, immagini recenti e video riguardanti: Vulcani"
+    "de": "Welche aktuellen News, Ereignisse, aktuelle Bilder, Videos gibt es zum Vulkan: ",
+    "en": "What latest news, events, current pictures, and videos are available for the volcano: ",
+    "fr": "Quelles sont les dernières actualités, événements, images récentes et vidéos concernant le volcan: ",
+    "es": "Cuáles son las últimas noticias, eventos, imágenes actuales y videos sobre el volcán: ",
+    "pt": "Quais são as últimas notícias, eventos, imagens atuais e vídeos sobre o vulcão: ",
+    "it": "Quali sono le ultime novità, eventi, immagini recenti e video riguardanti il vulcano: "
   },
   {
     "category": "storm",
     "requiresCurrentDate": true,
-    "de": "Welche aktuellen News, Ereignisse, aktuelle Bilder, Videos gibt es zu: Stürmen",
-    "en": "What latest news, events, current pictures, and videos are available for: Storms",
-    "fr": "Quelles sont les dernières actualités, événements, images récentes et vidéos concernant : Tempêtes",
-    "es": "Cuáles son las últimas noticias, eventos, imágenes actuales y videos sobre: Tormentas",
-    "pt": "Quais são as últimas notícias, eventos, imagens atuais e vídeos sobre: Tempestades",
-    "it": "Quali sono le ultime novità, eventi, immagini recenti e video riguardanti: Tempeste"
+    "de": "Welche aktuellen News, Ereignisse, aktuelle Bilder, Videos gibt es zum Sturm: ",
+    "en": "What latest news, events, current pictures, and videos are available for the storm: ",
+    "fr": "Quelles sont les dernières actualités, événements, images récentes et vidéos concernant la tempête: ",
+    "es": "Cuáles son las últimas noticias, eventos, imágenes actuales y videos sobre la tormenta: ",
+    "pt": "Quais são as últimas notícias, eventos, imagens atuais e vídeos sobre a tempestade: ",
+    "it": "Quali sono le ultime novità, eventi, immagini recenti e video riguardanti la tempesta: "
   }
 ]
