@@ -1,6 +1,7 @@
 [
   {
     "category": "iss",
+    "requiresCurrentDate": true,
     "de": "Welche aktuellen News, Ereignisse, aktuelle Bilder, Videos gibt es zu: ISS",
     "en": "What latest news, events, current pictures, and videos are available for: ISS",
     "fr": "Quelles sont les dernières actualités, événements, images récentes et vidéos concernant : ISS",
@@ -10,6 +11,7 @@
   },
   {
     "category": "earthquake",
+    "requiresCurrentDate": false,
     "de": "Welche aktuellen News, Ereignisse, aktuelle Bilder, Videos gibt es zu: Erdbeben",
     "en": "What latest news, events, current pictures, and videos are available for: Earthquakes",
     "fr": "Quelles sont les dernières actualités, événements, images récentes et vidéos concernant : Tremblements de terre",
@@ -19,6 +21,7 @@
   },
   {
     "category": "volcano",
+    "requiresCurrentDate": false,
     "de": "Welche aktuellen News, Ereignisse, aktuelle Bilder, Videos gibt es zu: Vulkanen",
     "en": "What latest news, events, current pictures, and videos are available for: Volcanoes",
     "fr": "Quelles sont les dernières actualités, événements, images récentes et vidéos concernant : Volcans",
@@ -28,6 +31,7 @@
   },
   {
     "category": "storm",
+    "requiresCurrentDate": true,
     "de": "Welche aktuellen News, Ereignisse, aktuelle Bilder, Videos gibt es zu: Stürmen",
     "en": "What latest news, events, current pictures, and videos are available for: Storms",
     "fr": "Quelles sont les dernières actualités, événements, images récentes et vidéos concernant : Tempêtes",
