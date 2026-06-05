@@ -1,6 +1,6 @@
 [
   {
-    "categoryId": "iss",
+    "category": "iss",
     "de": "Welche aktuellen News, Ereignisse, aktuelle Bilder, Videos gibt es zu: ISS",
     "en": "What latest news, events, current pictures, and videos are available for: ISS",
     "fr": "Quelles sont les dernières actualités, événements, images récentes et vidéos concernant : ISS",
@@ -9,7 +9,7 @@
     "it": "Quali sono le ultime novità, eventi, immagini recenti e video riguardanti: ISS"
   },
   {
-    "categoryId": "earthquake",
+    "category": "earthquake",
     "de": "Welche aktuellen News, Ereignisse, aktuelle Bilder, Videos gibt es zu: Erdbeben",
     "en": "What latest news, events, current pictures, and videos are available for: Earthquakes",
     "fr": "Quelles sont les dernières actualités, événements, images récentes et vidéos concernant : Tremblements de terre",
@@ -18,7 +18,7 @@
     "it": "Quali sono le ultime novità, eventi, immagini recenti e video riguardanti: Terremoti"
   },
   {
-    "categoryId": "volcano",
+    "category": "volcano",
     "de": "Welche aktuellen News, Ereignisse, aktuelle Bilder, Videos gibt es zu: Vulkanen",
     "en": "What latest news, events, current pictures, and videos are available for: Volcanoes",
     "fr": "Quelles sont les dernières actualités, événements, images récentes et vidéos concernant : Volcans",
@@ -27,7 +27,7 @@
     "it": "Quali sono le ultime novità, eventi, immagini recenti e video riguardanti: Vulcani"
   },
   {
-    "categoryId": "storm",
+    "category": "storm",
     "de": "Welche aktuellen News, Ereignisse, aktuelle Bilder, Videos gibt es zu: Stürmen",
     "en": "What latest news, events, current pictures, and videos are available for: Storms",
     "fr": "Quelles sont les dernières actualités, événements, images récentes et vidéos concernant : Tempêtes",
