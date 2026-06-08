@@ -58,5 +58,15 @@
   "es": "Cuáles son las últimas noticias, eventos, imágenes actuales y videos sobre la ubicación: ",
   "pt": "Quais são as últimas notícias, eventos, imagens atuais e vídeos sobre a localização: ",
   "it": "Quali sono le ultime notizie, eventi, immagini recenti e video riguardanti la posizione: "
+},
+  {
+  "category": "my_coordinates",
+  "requiresCurrentDate": true,
+  "de": "Welche aktuellen News, Ereignisse, aktuelle Bilder, Videos gibt es zu meinem Standort: ",
+  "en": "What latest news, events, current pictures, and videos are available for my location: ",
+  "fr": "Quelles sont les dernières actualités, événements, images récentes et vidéos concernant ma position : ",
+  "es": "Cuáles son las últimas noticias, eventos, imágenes actuales y videos sobre mi ubicación: ",
+  "pt": "Quais são as últimas notícias, eventos, imagens atuais e vídeos sobre a minha localização: ",
+  "it": "Quali sono le ultime notizie, eventi, immagini recenti e video riguardanti la mia posizione: "
 }
 ]
