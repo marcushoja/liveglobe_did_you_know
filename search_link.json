@@ -52,11 +52,11 @@
  {
   "category": "coordinates",
   "requiresCurrentDate": true,
-  "de": "Welche aktuellen News, Ereignisse, aktuelle Bilder, Videos gibt es zur GPS-Lokation: ",
-  "en": "What latest news, events, current pictures, and videos are available for the GPS location: ",
-  "fr": "Quelles sont les dernières actualités, événements, images récentes et vidéos concernant la localisation GPS : ",
-  "es": "Cuáles son las últimas noticias, eventos, imágenes actuales y videos sobre la ubicación GPS: ",
-  "pt": "Quais são as últimas notícias, eventos, imagens atuais e vídeos sobre a localização GPS: ",
-  "it": "Quali sono le ultime notizie, eventi, immagini recenti e video riguardanti la posizione GPS: "
+  "de": "Welche aktuellen News, Ereignisse, aktuelle Bilder, Videos gibt es zur Lokation: ",
+  "en": "What latest news, events, current pictures, and videos are available for the location: ",
+  "fr": "Quelles sont les dernières actualités, événements, images récentes et vidéos concernant la localisation: ",
+  "es": "Cuáles son las últimas noticias, eventos, imágenes actuales y videos sobre la ubicación: ",
+  "pt": "Quais são as últimas notícias, eventos, imagens atuais e vídeos sobre a localização: ",
+  "it": "Quali sono le ultime notizie, eventi, immagini recenti e video riguardanti la posizione: "
 }
 ]
