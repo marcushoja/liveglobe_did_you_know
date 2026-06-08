@@ -79,14 +79,14 @@
   "pt": "Quais são as últimas notícias, eventos, imagens atuais e vídeos sobre a minha localização: ",
   "it": "Quali sono le ultime notizie, eventi, immagini recenti e video riguardanti la mia posizione: "
 },
-  {
+ {
   "category": "coordinates_country_kids",
   "requiresCurrentDate": true,
-  "de": "Welche aktuellen News und Ereignisse gibt es zum Land, in dem diese Lokation liegt? Fasse die echten Nachrichten kindgerecht und leicht verständlich zusammen und nenne danach noch 3 spannende Fakten über das Land: ",
-  "en": "What are the latest news and events for the country where this location is situated? Summarize the real news in a child-friendly, easy-to-understand way, and then provide 3 exciting facts about the country: ",
-  "fr": "Quelles sont les dernières actualités et événements concernant le pays dans lequel se trouve cette localisation ? Résume les vraies nouvelles d'une manière simple et adaptée aux enfants, puis donne 3 faits fascinants sur ce pays : ",
-  "es": "Cuáles son las últimas noticias y eventos sobre el país en el que se encuentra esta ubicación? Resume las noticias reales de forma sencilla y adaptada para niños, y luego proporciona 3 datos fascinantes sobre el país: ",
-  "pt": "Quais são as últimas notícias e eventos sobre o país onde esta localização se encontra? Resuma as notícias reais de forma simples e adequada para crianças, e depois forneça 3 fatos fascinantes sobre o país: ",
-  "it": "Quali sono le ultime notizie ed eventi riguardanti il paese in cui si trova questa posizione? Riassumi le vere notizie in modo semplice e adatto ai bambini, e poi fornisci 3 fatti affascinanti sul paese: "
+  "de": "Welche aktuellen News und Ereignisse gibt es zum Land, in dem diese Lokation liegt? Fasse die echten Nachrichten kindgerecht und leicht verständlich zusammen, nutze passende Emojis zur Auflockerung und nenne danach noch 3 spannende Fakten über das Land: ",
+  "en": "What are the latest news and events for the country where this location is situated? Summarize the real news in a child-friendly, easy-to-understand way, use fitting emojis to liven up the text, and then provide 3 exciting facts about the country: ",
+  "fr": "Quelles sont les dernières actualités et événements concernant le pays dans lequel se trouve cette localisation ? Résume les vraies nouvelles d'une manière simple et adaptée aux enfants, utilise des émojis appropriés pour agrémenter le texte, puis donne 3 faits fascinants sur ce pays : ",
+  "es": "Cuáles son las últimas noticias y eventos sobre el país en el que se encuentra esta ubicación? Resume las noticias reales de forma sencilla y adaptada para niños, usa emojis adecuados para amenizar el texto, y luego proporciona 3 datos fascinantes sobre el país: ",
+  "pt": "Quais são as últimas notícias e eventos sobre o país onde esta localização se encontra? Resuma as notícias reais de forma simples e adequada para crianças, use emojis adequados para animar o texto e depois forneça 3 fatos fascinantes sobre o país: ",
+  "it": "Quali sono le ultime notizie ed eventi riguardanti il paese in cui si trova questa posizione? Riassumi le vere notizie in modo semplice e adatto ai bambini, usa emoji appropriate per vivacizzare il testo, e poi fornisci 3 fatti affascinanti sul paese: "
 }
 ]
