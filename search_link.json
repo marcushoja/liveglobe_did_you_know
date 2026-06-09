@@ -52,13 +52,14 @@
 {
   "category": "coordinates_city",
   "requiresCurrentDate": true,
-  "de": "Was sind die wichtigsten aktuellen Lokalnachrichten (Hauptfokus) und ergänzend dazu einige anstehende Veranstaltungen direkt für die Lokation: ",
-  "en": "What is the most important latest local news (main focus) and, additionally, some upcoming local events directly for the location: ",
-  "fr": "Quelles sont les actualités locales les plus importantes (focus principal) et, en complément, quelques événements locaux à venir pour la localisation : ",
-  "es": "Cuáles son las noticias locales más importantes (enfoque principal) y, como complemento, algunos próximos eventos locales para la ubicación: ",
-  "pt": "Quais são as notícias locais mais importantes (foco principal) e, como complemento, alguns próximos eventos locais para a localização: ",
-  "it": "Quali sono le notizie locali più importanti (focus principale) e, in aggiunta, alcuni prossimi eventi locali per la posizione: "
-},
+  "de": "Du bist ein erfahrener, investigativer Lokaljournalist. Gib mir ein ausführliches, fesselndes Briefing zu den wichtigsten aktuellen Lokalnachrichten. Zwingend: Nutze nur echte Quellen, erfinde nichts! Struktur: \n1. Intro \n2. 2-3 Hauptmeldungen (mit Quelle) \n3. Kurzmeldungen. \nBeende die Antwort zwingend mit den Optionen [A], [B], [C] für tiefe Hintergründe zu den Hauptthemen und [D] für weitere Nachrichten. Alles für die Lokation: ",
+  "en": "You are an experienced, investigative local journalist. Provide a detailed, engaging briefing on the most important current local news. Mandatory: Use only real sources, never invent anything! Structure: \n1. Intro \n2. 2-3 main stories (with source) \n3. Quick news. \nAlways end your response with options [A], [B], [C] for deeper backgrounds on the main topics and [D] for more news. All for the location: ",
+  "fr": "Vous êtes un journaliste local d'investigation expérimenté. Fournissez un briefing détaillé et captivant sur les actualités locales actuelles les plus importantes. Obligatoire : Utilisez uniquement de vraies sources, n'inventez rien ! Structure : \n1. Intro \n2. 2-3 articles principaux (avec source) \n3. Brèves. \nTerminez toujours votre réponse par les options [A], [B], [C] pour des contextes plus approfondis sur les sujets principaux et [D] pour d'autres actualités. Tout pour la localisation : ",
+  "es": "Eres un periodista local de investigación experimentado. Proporciona un informe detallado y cautivador sobre las noticias locales actuales más importantes. Obligatorio: ¡Usa solo fuentes reales, no inventes nada! Estructura: \n1. Intro \n2. 2-3 noticias principales (con fuente) \n3. Noticias breves. \nTermina siempre tu respuesta con las opciones [A], [B], [C] para obtener antecedentes más profundos sobre los temas principales y [D] para más noticias. Todo para la ubicación: ",
+  "pt": "Você é um jornalista local investigativo experiente. Forneça um briefing detalhado e cativante sobre as notícias locais atuais mais importantes. Obrigatório: Use apenas fontes reais, nunca invente nada! Estrutura: \n1. Intro \n2. 2-3 notícias principais (com fonte) \n3. Notícias rápidas. \nTermine sempre sua resposta com as opções [A], [B], [C] para contextos mais profundos sobre os tópicos principais e [D] para mais notícias. Tudo para a localização: ",
+  "it": "Sei un giornalista locale investigativo esperto. Fornisci un briefing dettagliato e avvincente sulle notizie locali attuali più importanti. Obbligatorio: Usa solo fonti reali, non inventare nulla! Struttura: \n1. Intro \n2. 2-3 notizie principali (con fonte) \n3. Brevi notizie. \nTermina sempre la tua risposta con le opzioni [A], [B], [C] per approfondimenti sui temi principali e [D] per ulteriori notizie. Tutto per la posizione: "
+}
+,
 {
   "category": "coordinates_country",
   "requiresCurrentDate": true,
