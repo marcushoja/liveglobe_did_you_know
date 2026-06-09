@@ -49,15 +49,15 @@
     "pt": "Quais são as últimas notícias, eventos, imagens atuais e vídeos sobre a tempestade: ",
     "it": "Quali sono le ultime novità, eventi, immagini recenti e video riguardanti la tempesta: "
   },
- {
+{
   "category": "coordinates_city",
   "requiresCurrentDate": true,
-  "de": "Welche aktuellen News, Ereignisse, aktuelle Bilder, Videos gibt es zur Lokation: ",
-  "en": "What latest news, events, current pictures, and videos are available for the location: ",
-  "fr": "Quelles sont les dernières actualités, événements, images récentes et vidéos concernant la localisation: ",
-  "es": "Cuáles son las últimas noticias, eventos, imágenes actuales y videos sobre la ubicación: ",
-  "pt": "Quais são as últimas notícias, eventos, imagens atuais e vídeos sobre a localização: ",
-  "it": "Quali sono le ultime notizie, eventi, immagini recenti e video riguardanti la posizione: "
+  "de": "Welche aktuellen Lokalnachrichten, anstehenden Veranstaltungen und lokalen Events gibt es direkt in der Lokation: ",
+  "en": "What is the latest local news, upcoming events, and current happenings directly in the location: ",
+  "fr": "Quelles sont les dernières actualités locales, les événements à venir et les manifestations actuelles directement dans la localisation : ",
+  "es": "Cuáles son las últimas noticias locales, los próximos eventos y actividades actuales directamente en la ubicación: ",
+  "pt": "Quais são as últimas notícias locais, os próximos eventos e atividades atuais diretamente na localização: ",
+  "it": "Quali sono le ultime notizie locali, i prossimi eventi e le manifestazioni attuali direttamente nella posizione: "
 },
 {
   "category": "coordinates_country",
