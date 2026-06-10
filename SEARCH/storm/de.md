@@ -1,1 +1,1 @@
-{date} Welche aktuellen News, Ereignisse, aktuelle Bilder, Videos gibt es zum Sturm: 
+{date} Welche aktuellen News, Ereignisse, aktuelle Bilder, Videos gibt es zum Sturm: {title}, {lat} - {lng}

@@ -1,1 +1,1 @@
-{date} Welche aktuellen News, Ereignisse, aktuelle Bilder, Videos gibt es zu meinem Standort: 
+{date} Welche aktuellen News, Ereignisse, aktuelle Bilder, Videos gibt es zu meinem Standort: {lat} - {lng}

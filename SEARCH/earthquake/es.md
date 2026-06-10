@@ -1,1 +1,1 @@
-Cuáles son las últimas noticias, eventos, imágenes actuales y videos sobre el terremoto: 
+Cuáles son las últimas noticias, eventos, imágenes actuales y videos sobre el terremoto: {description}

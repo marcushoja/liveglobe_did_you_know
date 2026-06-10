@@ -1,1 +1,1 @@
-{date} Cuáles son las últimas noticias, eventos, imágenes actuales y videos sobre mi ubicación: 
+{date} Cuáles son las últimas noticias, eventos, imágenes actuales y videos sobre mi ubicación: {lat} - {lng}

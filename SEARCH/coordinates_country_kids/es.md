@@ -1,1 +1,1 @@
-{date} Cuáles son las últimas noticias y eventos sobre el país en el que se encuentra esta ubicación? Resume las noticias reales de forma sencilla y adaptada para niños, usa emojis adecuados para amenizar el texto, y luego proporciona 3 datos fascinantes sobre el país: 
+{date} Cuáles son las últimas noticias y eventos sobre el país en el que se encuentra esta ubicación? Resume las noticias reales de forma sencilla y adaptada para niños, usa emojis adecuados para amenizar el texto, y luego proporciona 3 datos fascinantes sobre el país: {title}

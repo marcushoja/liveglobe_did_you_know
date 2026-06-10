@@ -1,1 +1,1 @@
-Quelles sont les dernières actualités, événements, images récentes et vidéos concernant le tremblement de terre: 
+Quelles sont les dernières actualités, événements, images récentes et vidéos concernant le tremblement de terre: {description}

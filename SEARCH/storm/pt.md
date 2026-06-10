@@ -1,1 +1,1 @@
-{date} Quais são as últimas notícias, eventos, imagens atuais e vídeos sobre a tempestade: 
+{date} Quais são as últimas notícias, eventos, imagens atuais e vídeos sobre a tempestade: {title}, {lat} - {lng}

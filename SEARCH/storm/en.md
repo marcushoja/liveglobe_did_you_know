@@ -1,1 +1,1 @@
-{date} What latest news, events, current pictures, and videos are available for the storm: 
+{date} What latest news, events, current pictures, and videos are available for the storm: {title}, {lat} - {lng}

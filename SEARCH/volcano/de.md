@@ -1,1 +1,1 @@
-Welche aktuellen News, Ereignisse, aktuelle Bilder, Videos gibt es zum Vulkan: 
+Welche aktuellen News, Ereignisse, aktuelle Bilder, Videos gibt es zum Vulkan: {title}, {lat} - {lng}

@@ -1,1 +1,1 @@
-What latest news, events, current pictures, and videos are available for the volcano: 
+What latest news, events, current pictures, and videos are available for the volcano: {title}, {lat} - {lng}

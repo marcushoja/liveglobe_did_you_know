@@ -1,1 +1,1 @@
-Cuáles son las últimas noticias, eventos, imágenes actuales y videos sobre el volcán: 
+Cuáles son las últimas noticias, eventos, imágenes actuales y videos sobre el volcán: {title}, {lat} - {lng}

@@ -1,1 +1,1 @@
-{date} Quali sono le ultime novità, eventi, immagini recenti e video riguardanti la città: 
+{date} Quali sono le ultime novità, eventi, immagini recenti e video riguardanti la città: {description}

@@ -1,1 +1,1 @@
-{date} Welche aktuellen News, Ereignisse, aktuelle Bilder, Videos gibt es zur ISS: 
+{date} Welche aktuellen News, Ereignisse, aktuelle Bilder, Videos gibt es zur ISS: {lat} - {lng}

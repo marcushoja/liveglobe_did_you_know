@@ -1,1 +1,1 @@
-{date} Quelles sont les dernières actualités, événements, images récentes et vidéos concernant ma position : 
+{date} Quelles sont les dernières actualités, événements, images récentes et vidéos concernant ma position : {lat} - {lng}

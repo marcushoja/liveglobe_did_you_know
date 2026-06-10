@@ -1,1 +1,1 @@
-{date} Quali sono le ultime novità, eventi, immagini recenti e video riguardanti l'ISS: 
+{date} Quali sono le ultime novità, eventi, immagini recenti e video riguardanti l'ISS: {lat} - {lng}

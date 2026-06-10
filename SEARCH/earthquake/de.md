@@ -1,1 +1,1 @@
-Welche aktuellen News, Ereignisse, aktuelle Bilder, Videos gibt es zum Erdbeben: 
+Welche aktuellen News, Ereignisse, aktuelle Bilder, Videos gibt es zum Erdbeben: {description}
