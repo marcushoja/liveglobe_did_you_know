@@ -1,1 +1,3 @@
-{date} What are the latest news and events for the country where this location is situated? Summarize the real news in a child-friendly, easy-to-understand way, use fitting emojis to liven up the text, and then provide 3 exciting facts about the country: {title}
+Today's Date: {date} 
+
+What are the latest news and events for the country where this location is situated? Summarize the real news in a child-friendly, easy-to-understand way, use fitting emojis to liven up the text, and then provide 3 exciting facts about the country: {title}

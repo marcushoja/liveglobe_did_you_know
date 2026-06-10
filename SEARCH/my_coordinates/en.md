@@ -1,1 +1,3 @@
-{date} What latest news, events, current pictures, and videos are available for my location: {lat} - {lng}
+Today's Date: {date} 
+
+What latest news, events, current pictures, and videos are available for my location: Lat: {lat}, Lng: {lng}

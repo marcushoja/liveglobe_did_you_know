@@ -1,1 +1,1 @@
-Quali sono le ultime novità, eventi, immagini recenti e video riguardanti il vulcano: {title}, {lat} - {lng}
+Quali sono le ultime novità, eventi, immagini recenti e video riguardanti il vulcano: {title}, Lat: {lat}, Lng: {lng}

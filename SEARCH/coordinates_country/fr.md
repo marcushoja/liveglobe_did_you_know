@@ -1,1 +1,3 @@
-{date} Quelles sont les dernières actualités, événements, images récentes et vidéos concernant le pays dans lequel se trouve cette localisation ? Enfin, donne quelques faits passionnants sur ce pays : {title}
+Date du jour : {date} 
+
+Quelles sont les dernières actualités, événements, images récentes et vidéos concernant le pays dans lequel se trouve cette localisation ? Enfin, donne quelques faits passionnants sur ce pays : {title}

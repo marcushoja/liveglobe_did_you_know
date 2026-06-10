@@ -1,1 +1,3 @@
-{date} Quali sono le ultime notizie, eventi, immagini recenti e video riguardanti il paese in cui si trova questa posizione? Infine, fornisci alcuni fatti affascinanti sul paese: {title}
+Data odierna: {date} 
+
+Quali sono le ultime notizie, eventi, immagini recenti e video riguardanti il paese in cui si trova questa posizione? Infine, fornisci alcuni fatti affascinanti sul paese: {title}

@@ -1,1 +1,3 @@
-{date} Quelles sont les dernières actualités, événements, images récentes et vidéos concernant la tempête: {title}, {lat} - {lng}
+Date du jour : {date} 
+
+Quelles sont les dernières actualités, événements, images récentes et vidéos concernant la tempête: {title}, Lat: {lat}, Lng: {lng}

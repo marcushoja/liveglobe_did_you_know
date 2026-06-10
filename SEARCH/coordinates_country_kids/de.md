@@ -1,1 +1,3 @@
-{date} Welche aktuellen News und Ereignisse gibt es zum Land, in dem diese Lokation liegt? Fasse die echten Nachrichten kindgerecht und leicht verständlich zusammen, nutze passende Emojis zur Auflockerung und nenne danach noch 3 spannende Fakten über das Land: {title}
+Aktuelles Datum: {date} 
+
+Welche aktuellen News und Ereignisse gibt es zum Land, in dem diese Lokation liegt? Fasse die echten Nachrichten kindgerecht und leicht verständlich zusammen, nutze passende Emojis zur Auflockerung und nenne danach noch 3 spannende Fakten über das Land: {title}

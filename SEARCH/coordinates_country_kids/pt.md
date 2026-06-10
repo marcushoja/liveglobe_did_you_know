@@ -1,1 +1,3 @@
-{date} Quais são as últimas notícias e eventos sobre o país onde esta localização se encontra? Resuma as notícias reais de forma simples e adequada para crianças, use emojis adequados para animar o texto e depois forneça 3 fatos fascinantes sobre o país: {title}
+Data de hoje: {date} 
+
+Quais são as últimas notícias e eventos sobre o país onde esta localização se encontra? Resuma as notícias reais de forma simples e adequada para crianças, use emojis adequados para animar o texto e depois forneça 3 fatos fascinantes sobre o país: {title}

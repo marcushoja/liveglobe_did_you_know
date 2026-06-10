@@ -1,1 +1,3 @@
-{date} Cuáles son las últimas noticias, eventos, imágenes actuales y videos sobre el país en el que se encuentra esta ubicación? Al final, proporciona algunos datos fascinantes sobre el país: {title}
+Fecha de hoy: {date} 
+
+Cuáles son las últimas noticias, eventos, imágenes actuales y videos sobre el país en el que se encuentra esta ubicación? Al final, proporciona algunos datos fascinantes sobre el país: {title}
