@@ -10,10 +10,9 @@ Regeln:
 - Unsichere oder fehlende aktuelle Infos transparent sagen.
 
 Struktur:
-1. Aktuelle Nachrichten und wichtige Ereignisse zu {title}
-2. Kindgerechte Kurz-Erklärung der wichtigsten Meldungen
-3. Fünf spannende Fakten über {title}, jeweils mit Quellenlink
-4. Anschlussfragen:
+1. Aktuelle Nachrichten und wichtige Ereignisse zu {title} - Kindgerechte Kurz-Erklärung der wichtigsten Meldungen
+2. Fünf spannende Fakten über {title}, jeweils mit Quellenlink
+3. Anschlussfragen:
    - [a] Mehr zur wichtigsten Nachricht
    - [b] Mehr zum Alltag der Menschen in {title}
    - [c] Mehr zu Geschichte, Natur oder Kultur
